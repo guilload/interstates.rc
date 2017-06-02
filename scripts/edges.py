@@ -1,6 +1,7 @@
 import json
 import itertools
 from geopy.distance import vincenty
+from heapq import heappush, heappop, heapify
 
 # Converts city data e.g....
 
@@ -82,8 +83,33 @@ def get_edges(cities):
                 "distance": get_distance(pair, cities),
                 })
     return edges
-    
+
+
+def put_edges_in_a_heap(cities):
+    heaps = []
+    edges = get_edges(cities)
+    routes = [route for city in cities for route in city['routes']]
+    unique_routes = set(routes)
+    for route in unique_routes:
+        heap = []
+        for item in edges:
+            if item['route'] == route:
+                heappush(heap, item)
+        heaps.append({
+            "route": route,
+            "heap": heap,
+        })
+
+    # TEST
+    # while heap:
+    #     print(heappop(heap)['distance'])
+
+    return heaps
+
 
 with open("data/edges.json", "w") as f:
     f.write(json.dumps(get_edges(cities), sort_keys=True, indent=4))
 
+
+with open("data/heaps.json", "w") as f:
+    f.write(json.dumps(put_edges_in_a_heap(cities), indent=4))
