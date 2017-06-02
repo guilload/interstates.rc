@@ -77,12 +77,13 @@ def get_edges(cities):
         for pair in route['pairs']:        
             edges.append({
                 "route": route['route'],
-                "from": pair[0],
-                "to": pair[1],
+                "from": "%s, %s" % (pair[0][0], pair[0][1]),
+                "to": "%s, %s" % (pair[1][0], pair[1][1]),
                 "distance": get_distance(pair, cities),
                 })
     return edges
+    
 
-
-print(get_edges(cities))
+with open("data/edges.json", "w") as f:
+    f.write(json.dumps(get_edges(cities), sort_keys=True, indent=4))
 
