@@ -78,14 +78,14 @@ def get_edges(cities):
         for pair in route['pairs']:        
             edges.append({
                 "route": route['route'],
-                "from": "%s, %s" % (pair[0][0], pair[0][1]),
-                "to": "%s, %s" % (pair[1][0], pair[1][1]),
-                "distance": get_distance(pair, cities),
+                "source": "%s, %s" % (pair[0][0], pair[0][1]),
+                "target": "%s, %s" % (pair[1][0], pair[1][1]),
+                "value": get_distance(pair, cities),
                 })
     return edges
 
 
-def put_edges_in_a_heap(cities):
+def put_edges_in_heaps(cities):
     heaps = []
     edges = get_edges(cities)
     routes = [route for city in cities for route in city['routes']]
@@ -106,10 +106,29 @@ def put_edges_in_a_heap(cities):
 
     return heaps
 
+states = ['Alaska', 'Arizona', 'California', 'Colorado', 'District of Columbia', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Missouri', 'Nebraska', 'Nevada', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Tennessee', 'Texas', 'Virginia', 'Washington', 'Wisconsin']
+
+def get_nodes(cities):
+    new_cities_list = []
+    for city in cities:
+        city_map = {}
+        city_map['id'] = "%s, %s" % (city['city'], city['state'])
+        city_map['latitude'] = city['latitude']
+        city_map['longitude'] = city['longitude']
+        city_map['population'] = int(city['population'])
+        city_map['group'] = states.index(city['state'])
+        new_cities_list.append(city_map)
+    return new_cities_list
+
 
 with open("data/edges.json", "w") as f:
     f.write(json.dumps(get_edges(cities), sort_keys=True, indent=4))
 
-
 with open("data/heaps.json", "w") as f:
-    f.write(json.dumps(put_edges_in_a_heap(cities), indent=4))
+    f.write(json.dumps(put_edges_in_heaps(cities), indent=4))
+
+with open("data/vis.json", "w") as f:
+    f.write(json.dumps({"links": get_edges(cities), "nodes": get_nodes(cities)}, indent=4))
+
+
+

@@ -3,10 +3,10 @@
         "route": "I-35W", 
         "heap": [
             {
-                "to": "Minneapolis, Minnesota", 
+                "source": "Fort Worth, Texas", 
                 "route": "I-35W", 
-                "from": "Fort Worth, Texas", 
-                "distance": 870.8313576046191
+                "target": "Minneapolis, Minnesota", 
+                "value": 870.8313576046191
             }
         ]
     }, 
@@ -14,64 +14,64 @@
         "route": "I-69", 
         "heap": [
             {
-                "to": "Fort Wayne, Indiana", 
+                "source": "Corpus Christi, Texas", 
                 "route": "I-69", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 105.19596875734949
+                "target": "Fort Wayne, Indiana", 
+                "value": 1149.706539949482
             }, 
             {
-                "to": "Memphis, Tennessee", 
+                "source": "Houston, Texas", 
                 "route": "I-69", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 383.5933085648572
+                "target": "Corpus Christi, Texas", 
+                "value": 182.57258911962572
             }, 
             {
-                "to": "Corpus Christi, Texas", 
+                "source": "Houston, Texas", 
                 "route": "I-69", 
-                "from": "Houston, Texas", 
-                "distance": 182.57258911962572
+                "target": "Indianapolis, Indiana", 
+                "value": 865.2327780091879
             }, 
             {
-                "to": "Fort Wayne, Indiana", 
+                "source": "Houston, Texas", 
                 "route": "I-69", 
-                "from": "Memphis, Tennessee", 
-                "distance": 488.5106089582966
+                "target": "Memphis, Tennessee", 
+                "value": 484.10312031845393
             }, 
             {
-                "to": "Indianapolis, Indiana", 
+                "source": "Houston, Texas", 
                 "route": "I-69", 
-                "from": "Houston, Texas", 
-                "distance": 865.2327780091879
+                "target": "Fort Wayne, Indiana", 
+                "value": 969.1184041811279
             }, 
             {
-                "to": "Corpus Christi, Texas", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-69", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 1046.275445126816
+                "target": "Corpus Christi, Texas", 
+                "value": 1046.275445126816
             }, 
             {
-                "to": "Memphis, Tennessee", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-69", 
-                "from": "Houston, Texas", 
-                "distance": 484.10312031845393
+                "target": "Fort Wayne, Indiana", 
+                "value": 105.19596875734949
             }, 
             {
-                "to": "Fort Wayne, Indiana", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-69", 
-                "from": "Houston, Texas", 
-                "distance": 969.1184041811279
+                "target": "Corpus Christi, Texas", 
+                "value": 666.3030669323085
             }, 
             {
-                "to": "Corpus Christi, Texas", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-69", 
-                "from": "Memphis, Tennessee", 
-                "distance": 666.3030669323085
+                "target": "Fort Wayne, Indiana", 
+                "value": 488.5106089582966
             }, 
             {
-                "to": "Fort Wayne, Indiana", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-69", 
-                "from": "Corpus Christi, Texas", 
-                "distance": 1149.706539949482
+                "target": "Memphis, Tennessee", 
+                "value": 383.5933085648572
             }
         ]
     }, 
@@ -83,40 +83,40 @@
         "route": "I-20", 
         "heap": [
             {
-                "to": "Arlington, Texas", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-20", 
-                "from": "Fort Worth, Texas", 
-                "distance": 13.040576921450281
+                "target": "Arlington, Texas", 
+                "value": 739.4450809239532
             }, 
             {
-                "to": "Arlington, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-20", 
-                "from": "Dallas, Texas", 
-                "distance": 18.332305278375614
+                "target": "Fort Worth, Texas", 
+                "value": 31.111763099583918
             }, 
             {
-                "to": "Fort Worth, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-20", 
-                "from": "Dallas, Texas", 
-                "distance": 31.111763099583918
+                "target": "Arlington, Texas", 
+                "value": 18.332305278375614
             }, 
             {
-                "to": "Atlanta, Georgia", 
+                "source": "Fort Worth, Texas", 
                 "route": "I-20", 
-                "from": "Fort Worth, Texas", 
-                "distance": 752.0513209955661
+                "target": "Atlanta, Georgia", 
+                "value": 752.0513209955661
             }, 
             {
-                "to": "Atlanta, Georgia", 
+                "source": "Fort Worth, Texas", 
                 "route": "I-20", 
-                "from": "Dallas, Texas", 
-                "distance": 721.1127842321335
+                "target": "Arlington, Texas", 
+                "value": 13.040576921450281
             }, 
             {
-                "to": "Arlington, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-20", 
-                "from": "Atlanta, Georgia", 
-                "distance": 739.4450809239532
+                "target": "Atlanta, Georgia", 
+                "value": 721.1127842321335
             }
         ]
     }, 
@@ -124,22 +124,22 @@
         "route": "I-25", 
         "heap": [
             {
-                "to": "Colorado Springs, Colorado", 
+                "source": "Albuquerque, New Mexico", 
                 "route": "I-25", 
-                "from": "Denver, Colorado", 
-                "distance": 63.10886561220761
+                "target": "Colorado Springs, Colorado", 
+                "value": 276.6892555393289
             }, 
             {
-                "to": "Albuquerque, New Mexico", 
+                "source": "Denver, Colorado", 
                 "route": "I-25", 
-                "from": "Denver, Colorado", 
-                "distance": 333.0029977683511
+                "target": "Colorado Springs, Colorado", 
+                "value": 63.10886561220761
             }, 
             {
-                "to": "Colorado Springs, Colorado", 
+                "source": "Denver, Colorado", 
                 "route": "I-25", 
-                "from": "Albuquerque, New Mexico", 
-                "distance": 276.6892555393289
+                "target": "Albuquerque, New Mexico", 
+                "value": 333.0029977683511
             }
         ]
     }, 
@@ -147,94 +147,94 @@
         "route": "I-64", 
         "heap": [
             {
-                "to": "Chesapeake, Virginia", 
+                "source": "Chesapeake, Virginia", 
                 "route": "I-64", 
-                "from": "Norfolk, Virginia", 
-                "distance": 5.69373063297852
+                "target": "Richmond, Virginia", 
+                "value": 82.8067589415058
             }, 
             {
-                "to": "Chesapeake, Virginia", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-64", 
-                "from": "Virginia Beach, Virginia", 
-                "distance": 18.12806768003357
+                "target": "Norfolk, Virginia", 
+                "value": 459.0831619905848
             }, 
             {
-                "to": "Norfolk, Virginia", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-64", 
-                "from": "Virginia Beach, Virginia", 
-                "distance": 17.062667219132273
+                "target": "Chesapeake, Virginia", 
+                "value": 460.2880343974443
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "St. Louis, Missouri", 
                 "route": "I-64", 
-                "from": "St. Louis, Missouri", 
-                "distance": 699.2329338128296
+                "target": "Richmond, Virginia", 
+                "value": 699.2329338128296
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "St. Louis, Missouri", 
                 "route": "I-64", 
-                "from": "Virginia Beach, Virginia", 
-                "distance": 93.37731671090955
+                "target": "Chesapeake, Virginia", 
+                "value": 772.2891416734693
             }, 
             {
-                "to": "Lexington-Fayette, Kentucky", 
+                "source": "Norfolk, Virginia", 
                 "route": "I-64", 
-                "from": "St. Louis, Missouri", 
-                "distance": 312.0166386812289
+                "target": "Chesapeake, Virginia", 
+                "value": 5.69373063297852
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-64", 
-                "from": "Norfolk, Virginia", 
-                "distance": 79.30825787182984
+                "target": "Richmond, Virginia", 
+                "value": 388.2608778462598
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Virginia Beach, Virginia", 
                 "route": "I-64", 
-                "from": "Virginia Beach, Virginia", 
-                "distance": 787.6113347140864
+                "target": "St. Louis, Missouri", 
+                "value": 787.6113347140864
             }, 
             {
-                "to": "Chesapeake, Virginia", 
+                "source": "Virginia Beach, Virginia", 
                 "route": "I-64", 
-                "from": "St. Louis, Missouri", 
-                "distance": 772.2891416734693
+                "target": "Lexington-Fayette, Kentucky", 
+                "value": 475.69981450053837
             }, 
             {
-                "to": "Norfolk, Virginia", 
+                "source": "Virginia Beach, Virginia", 
                 "route": "I-64", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 459.0831619905848
+                "target": "Richmond, Virginia", 
+                "value": 93.37731671090955
             }, 
             {
-                "to": "Chesapeake, Virginia", 
+                "source": "St. Louis, Missouri", 
                 "route": "I-64", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 460.2880343974443
+                "target": "Lexington-Fayette, Kentucky", 
+                "value": 312.0166386812289
             }, 
             {
-                "to": "Lexington-Fayette, Kentucky", 
+                "source": "Virginia Beach, Virginia", 
                 "route": "I-64", 
-                "from": "Virginia Beach, Virginia", 
-                "distance": 475.69981450053837
+                "target": "Norfolk, Virginia", 
+                "value": 17.062667219132273
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "St. Louis, Missouri", 
                 "route": "I-64", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 388.2608778462598
+                "target": "Norfolk, Virginia", 
+                "value": 771.0413978016879
             }, 
             {
-                "to": "Norfolk, Virginia", 
+                "source": "Virginia Beach, Virginia", 
                 "route": "I-64", 
-                "from": "St. Louis, Missouri", 
-                "distance": 771.0413978016879
+                "target": "Chesapeake, Virginia", 
+                "value": 18.12806768003357
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Norfolk, Virginia", 
                 "route": "I-64", 
-                "from": "Chesapeake, Virginia", 
-                "distance": 82.8067589415058
+                "target": "Richmond, Virginia", 
+                "value": 79.30825787182984
             }
         ]
     }, 
@@ -242,10 +242,10 @@
         "route": "I-65", 
         "heap": [
             {
-                "to": "Nashville-Davidson, Tennessee", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-65", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 251.0041773690884
+                "target": "Nashville-Davidson, Tennessee", 
+                "value": 251.0041773690884
             }
         ]
     }, 
@@ -257,10 +257,10 @@
         "route": "I-35E", 
         "heap": [
             {
-                "to": "St. Paul, Minnesota", 
+                "source": "Dallas, Texas", 
                 "route": "I-35E", 
-                "from": "Dallas, Texas", 
-                "distance": 863.1833459135775
+                "target": "St. Paul, Minnesota", 
+                "value": 863.1833459135775
             }
         ]
     }, 
@@ -268,10 +268,10 @@
         "route": "I-78", 
         "heap": [
             {
-                "to": "Jersey City, New Jersey", 
+                "source": "Newark, New Jersey", 
                 "route": "I-78", 
-                "from": "Newark, New Jersey", 
-                "distance": 4.999012693105877
+                "target": "Jersey City, New Jersey", 
+                "value": 4.999012693105877
             }
         ]
     }, 
@@ -279,334 +279,334 @@
         "route": "I-5", 
         "heap": [
             {
-                "to": "Irvine, California", 
+                "source": "Anaheim, California", 
                 "route": "I-5", 
-                "from": "Santa Ana, California", 
-                "distance": 5.982085946208538
+                "target": "Chula Vista, California", 
+                "value": 95.37774514678604
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Anaheim, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 6.87596241597338
+                "target": "Stockton, California", 
+                "value": 341.4854288171701
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Anaheim, California", 
                 "route": "I-5", 
-                "from": "Anaheim, California", 
-                "distance": 6.741685075796821
+                "target": "Irvine, California", 
+                "value": 12.504932361482624
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 36.203254170878715
+                "target": "Portland, Oregon", 
+                "value": 825.4572348095738
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "Bakersfield, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 24.10657375710743
+                "target": "Anaheim, California", 
+                "value": 123.28618142863115
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Anaheim, California", 
                 "route": "I-5", 
-                "from": "Anaheim, California", 
-                "distance": 12.504932361482624
+                "target": "Santa Ana, California", 
+                "value": 6.741685075796821
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 88.62813846322089
+                "target": "Santa Ana, California", 
+                "value": 30.221578070964526
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 118.19075570464706
+                "target": "Stockton, California", 
+                "value": 318.7698082613063
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 44.431924633580245
+                "target": "Seattle, Washington", 
+                "value": 959.1472307035286
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Bakersfield, California", 
-                "distance": 123.28618142863115
+                "target": "Anaheim, California", 
+                "value": 24.10657375710743
             }, 
             {
-                "to": "San Diego, California", 
+                "source": "Bakersfield, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 111.36019966287573
+                "target": "Chula Vista, California", 
+                "value": 218.66380731991813
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Santa Ana, California", 
-                "distance": 88.69034251335428
+                "target": "Bakersfield, California", 
+                "value": 101.18534055876718
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Chula Vista, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 30.221578070964526
+                "target": "Irvine, California", 
+                "value": 82.89256700913977
             }, 
             {
-                "to": "Bakersfield, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 211.91050253083304
+                "target": "Bakersfield, California", 
+                "value": 726.1678161930429
             }, 
             {
-                "to": "Bakersfield, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 101.18534055876718
+                "target": "Anaheim, California", 
+                "value": 844.9434348701402
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 526.9873088357429
+                "target": "Chula Vista, California", 
+                "value": 937.5751777177593
             }, 
             {
-                "to": "Bakersfield, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 260.1767401563791
+                "target": "Irvine, California", 
+                "value": 856.8762648686594
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 318.7698082613063
+                "target": "Anaheim, California", 
+                "value": 383.46291906284273
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 76.15555034887984
+                "target": "Chula Vista, California", 
+                "value": 478.84052050615225
             }, 
             {
-                "to": "Portland, Oregon", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 144.82146943205296
+                "target": "Sacramento, California", 
+                "value": 361.08958759478804
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Bakersfield, California", 
-                "distance": 129.98164187895551
+                "target": "Chula Vista, California", 
+                "value": 118.19075570464706
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Bakersfield, California", 
                 "route": "I-5", 
-                "from": "Bakersfield, California", 
-                "distance": 218.66380731991813
+                "target": "Stockton, California", 
+                "value": 218.3570333560841
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Bakersfield, California", 
                 "route": "I-5", 
-                "from": "Bakersfield, California", 
-                "distance": 135.77424891276095
+                "target": "Irvine, California", 
+                "value": 135.77424891276095
             }, 
             {
-                "to": "Sacramento, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 472.0855780601909
+                "target": "San Diego, California", 
+                "value": 111.36019966287573
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Santa Ana, California", 
                 "route": "I-5", 
-                "from": "Anaheim, California", 
-                "distance": 95.37774514678604
+                "target": "Chula Vista, California", 
+                "value": 88.69034251335428
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Santa Ana, California", 
                 "route": "I-5", 
-                "from": "Stockton, California", 
-                "distance": 436.8082734856757
+                "target": "Irvine, California", 
+                "value": 5.982085946208538
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Chula Vista, California", 
-                "distance": 82.89256700913977
+                "target": "Sacramento, California", 
+                "value": 472.0855780601909
             }, 
             {
-                "to": "Sacramento, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 482.9179776674822
+                "target": "Bakersfield, California", 
+                "value": 211.91050253083304
             }, 
             {
-                "to": "Bakersfield, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 726.1678161930429
+                "target": "Sacramento, California", 
+                "value": 482.9179776674822
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 844.9434348701402
+                "target": "Anaheim, California", 
+                "value": 88.62813846322089
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 851.627809795988
+                "target": "Santa Ana, California", 
+                "value": 851.627809795988
             }, 
             {
-                "to": "Seattle, Washington", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 959.1472307035286
+                "target": "Santa Ana, California", 
+                "value": 81.9290775586831
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Portland, Oregon", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 937.5751777177593
+                "target": "Stockton, California", 
+                "value": 526.9873088357429
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Portland, Oregon", 
-                "distance": 856.8762648686594
+                "target": "Stockton, California", 
+                "value": 430.0160358428019
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 430.0160358428019
+                "target": "Bakersfield, California", 
+                "value": 260.1767401563791
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 383.46291906284273
+                "target": "Chula Vista, California", 
+                "value": 6.87596241597338
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 390.1565652218475
+                "target": "Santa Ana, California", 
+                "value": 390.1565652218475
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 81.9290775586831
+                "target": "Irvine, California", 
+                "value": 76.15555034887984
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 478.84052050615225
+                "target": "Stockton, California", 
+                "value": 44.431924633580245
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Sacramento, California", 
-                "distance": 395.94997186603536
+                "target": "Portland, Oregon", 
+                "value": 144.82146943205296
             }, 
             {
-                "to": "Sacramento, California", 
+                "source": "Sacramento, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 361.08958759478804
+                "target": "Irvine, California", 
+                "value": 395.94997186603536
             }, 
             {
-                "to": "Sacramento, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 624.4092595736473
+                "target": "Sacramento, California", 
+                "value": 624.4092595736473
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Los Angeles, California", 
                 "route": "I-5", 
-                "from": "Bakersfield, California", 
-                "distance": 218.3570333560841
+                "target": "Irvine, California", 
+                "value": 36.203254170878715
             }, 
             {
-                "to": "Seattle, Washington", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 1062.5934060584063
+                "target": "Bakersfield, California", 
+                "value": 861.3257579109686
             }, 
             {
-                "to": "Bakersfield, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 861.3257579109686
+                "target": "Seattle, Washington", 
+                "value": 1062.5934060584063
             }, 
             {
-                "to": "Anaheim, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 977.6904380761123
+                "target": "Anaheim, California", 
+                "value": 977.6904380761123
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Bakersfield, California", 
                 "route": "I-5", 
-                "from": "Anaheim, California", 
-                "distance": 341.4854288171701
+                "target": "Santa Ana, California", 
+                "value": 129.98164187895551
             }, 
             {
-                "to": "Santa Ana, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 984.3048625070949
+                "target": "Santa Ana, California", 
+                "value": 984.3048625070949
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "San Diego, California", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 668.0941083624331
+                "target": "Portland, Oregon", 
+                "value": 931.2822586215043
             }, 
             {
-                "to": "Portland, Oregon", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "San Diego, California", 
-                "distance": 931.2822586215043
+                "target": "Stockton, California", 
+                "value": 668.0941083624331
             }, 
             {
-                "to": "Stockton, California", 
+                "source": "Santa Ana, California", 
                 "route": "I-5", 
-                "from": "Santa Ana, California", 
-                "distance": 348.1418194294759
+                "target": "Stockton, California", 
+                "value": 348.1418194294759
             }, 
             {
-                "to": "Chula Vista, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 1068.7023252518477
+                "target": "Chula Vista, California", 
+                "value": 1068.7023252518477
             }, 
             {
-                "to": "Portland, Oregon", 
+                "source": "Stockton, California", 
                 "route": "I-5", 
-                "from": "Los Angeles, California", 
-                "distance": 825.4572348095738
+                "target": "Chula Vista, California", 
+                "value": 436.8082734856757
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Stockton, California", 
                 "route": "I-5", 
-                "from": "Seattle, Washington", 
-                "distance": 989.3588307067014
+                "target": "Irvine, California", 
+                "value": 353.989172131081
             }, 
             {
-                "to": "Irvine, California", 
+                "source": "Seattle, Washington", 
                 "route": "I-5", 
-                "from": "Stockton, California", 
-                "distance": 353.989172131081
+                "target": "Irvine, California", 
+                "value": 989.3588307067014
             }
         ]
     }, 
@@ -614,10 +614,10 @@
         "route": "I-4", 
         "heap": [
             {
-                "to": "Orlando, Florida", 
+                "source": "Tampa, Florida", 
                 "route": "I-4", 
-                "from": "Tampa, Florida", 
-                "distance": 77.19462882277901
+                "target": "Orlando, Florida", 
+                "value": 77.19462882277901
             }
         ]
     }, 
@@ -629,172 +629,172 @@
         "route": "I-95", 
         "heap": [
             {
-                "to": "Newark, New Jersey", 
+                "source": "Baltimore, Maryland", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 8.87816379719866
+                "target": "Miami, Florida", 
+                "value": 955.1443672777948
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-95", 
-                "from": "Washington, District of Columbia", 
-                "distance": 34.92613827444779
+                "target": "Baltimore, Maryland", 
+                "value": 680.5318976416348
             }, 
             {
-                "to": "Newark, New Jersey", 
+                "source": "Baltimore, Maryland", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 75.2770169840042
+                "target": "Newark, New Jersey", 
+                "value": 163.37933615576668
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 89.70297241828615
+                "target": "Newark, New Jersey", 
+                "value": 831.2265521364596
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-95", 
-                "from": "Washington, District of Columbia", 
-                "distance": 96.71876880904436
+                "target": "Miami, Florida", 
+                "value": 327.175422596985
             }, 
             {
-                "to": "Philadelphia, Pennsylvania", 
+                "source": "Baltimore, Maryland", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 80.61055079003864
+                "target": "Richmond, Virginia", 
+                "value": 128.69612653442286
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Newark, New Jersey", 
-                "distance": 281.58379750752295
+                "target": "Baltimore, Maryland", 
+                "value": 169.55781550766284
             }, 
             {
-                "to": "Miami, Florida", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Jacksonville, Florida", 
-                "distance": 327.175422596985
+                "target": "Jacksonville, Florida", 
+                "value": 834.6670476774347
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 169.55781550766284
+                "target": "Richmond, Virginia", 
+                "value": 552.6470144452145
             }, 
             {
-                "to": "Newark, New Jersey", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "Washington, District of Columbia", 
-                "distance": 197.80790497228364
+                "target": "Baltimore, Maryland", 
+                "value": 89.70297241828615
             }, 
             {
-                "to": "Washington, District of Columbia", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 123.39565526644445
+                "target": "Miami, Florida", 
+                "value": 1090.101745294014
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-95", 
-                "from": "Baltimore, Maryland", 
-                "distance": 128.69612653442286
+                "target": "Washington, District of Columbia", 
+                "value": 646.786309988989
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Miami, Florida", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 206.68314184754664
+                "target": "Newark, New Jersey", 
+                "value": 1088.494343781287
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 286.04109216359234
+                "target": "Richmond, Virginia", 
+                "value": 286.04109216359234
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Jacksonville, Florida", 
-                "distance": 680.5318976416348
+                "target": "Newark, New Jersey", 
+                "value": 8.87816379719866
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 834.6670476774347
+                "target": "Jacksonville, Florida", 
+                "value": 757.6783097414896
             }, 
             {
-                "to": "Newark, New Jersey", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Jacksonville, Florida", 
-                "distance": 831.2265521364596
+                "target": "Philadelphia, Pennsylvania", 
+                "value": 80.61055079003864
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 757.6783097414896
+                "target": "Washington, District of Columbia", 
+                "value": 123.39565526644445
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Washington, District of Columbia", 
                 "route": "I-95", 
-                "from": "Jacksonville, Florida", 
-                "distance": 552.6470144452145
+                "target": "Baltimore, Maryland", 
+                "value": 34.92613827444779
             }, 
             {
-                "to": "Miami, Florida", 
+                "source": "Washington, District of Columbia", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 1090.101745294014
+                "target": "Miami, Florida", 
+                "value": 924.2479148917039
             }, 
             {
-                "to": "Miami, Florida", 
+                "source": "Washington, District of Columbia", 
                 "route": "I-95", 
-                "from": "Washington, District of Columbia", 
-                "distance": 924.2479148917039
+                "target": "Newark, New Jersey", 
+                "value": 197.80790497228364
             }, 
             {
-                "to": "Miami, Florida", 
+                "source": "Washington, District of Columbia", 
                 "route": "I-95", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 1020.2080098615553
+                "target": "Richmond, Virginia", 
+                "value": 96.71876880904436
             }, 
             {
-                "to": "Miami, Florida", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "Baltimore, Maryland", 
-                "distance": 955.1443672777948
+                "target": "Miami, Florida", 
+                "value": 1020.2080098615553
             }, 
             {
-                "to": "Washington, District of Columbia", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "New York, New York", 
-                "distance": 203.75628815709112
+                "target": "Newark, New Jersey", 
+                "value": 75.2770169840042
             }, 
             {
-                "to": "Newark, New Jersey", 
+                "source": "New York, New York", 
                 "route": "I-95", 
-                "from": "Baltimore, Maryland", 
-                "distance": 163.37933615576668
+                "target": "Washington, District of Columbia", 
+                "value": 203.75628815709112
             }, 
             {
-                "to": "Newark, New Jersey", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-95", 
-                "from": "Miami, Florida", 
-                "distance": 1088.494343781287
+                "target": "Richmond, Virginia", 
+                "value": 206.68314184754664
             }, 
             {
-                "to": "Richmond, Virginia", 
+                "source": "Miami, Florida", 
                 "route": "I-95", 
-                "from": "Miami, Florida", 
-                "distance": 827.5373706225507
+                "target": "Richmond, Virginia", 
+                "value": 827.5373706225507
             }, 
             {
-                "to": "Washington, District of Columbia", 
+                "source": "Newark, New Jersey", 
                 "route": "I-95", 
-                "from": "Jacksonville, Florida", 
-                "distance": 646.786309988989
+                "target": "Richmond, Virginia", 
+                "value": 281.58379750752295
             }
         ]
     }, 
@@ -802,94 +802,94 @@
         "route": "I-94", 
         "heap": [
             {
-                "to": "St. Paul, Minnesota", 
+                "source": "Chicago, Illinois", 
                 "route": "I-94", 
-                "from": "Minneapolis, Minnesota", 
-                "distance": 8.740729672199894
+                "target": "Detroit, Michigan", 
+                "value": 237.642244231875
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Chicago, Illinois", 
                 "route": "I-94", 
-                "from": "Chicago, Illinois", 
-                "distance": 122.45005746027482
+                "target": "Madison, Wisconsin", 
+                "value": 122.45005746027482
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Chicago, Illinois", 
                 "route": "I-94", 
-                "from": "Milwaukee, Wisconsin", 
-                "distance": 75.70206481298094
+                "target": "Minneapolis, Minnesota", 
+                "value": 355.0715337884497
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Chicago, Illinois", 
                 "route": "I-94", 
-                "from": "Detroit, Michigan", 
-                "distance": 327.5059633444729
+                "target": "St. Paul, Minnesota", 
+                "value": 347.11656620987577
             }, 
             {
-                "to": "Detroit, Michigan", 
+                "source": "Chicago, Illinois", 
                 "route": "I-94", 
-                "from": "Chicago, Illinois", 
-                "distance": 237.642244231875
+                "target": "Milwaukee, Wisconsin", 
+                "value": 81.35961310367564
             }, 
             {
-                "to": "Milwaukee, Wisconsin", 
+                "source": "Detroit, Michigan", 
                 "route": "I-94", 
-                "from": "Chicago, Illinois", 
-                "distance": 81.35961310367564
+                "target": "Milwaukee, Wisconsin", 
+                "value": 252.2649252832526
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Detroit, Michigan", 
                 "route": "I-94", 
-                "from": "St. Paul, Minnesota", 
-                "distance": 224.9968687094316
+                "target": "Minneapolis, Minnesota", 
+                "value": 543.3900432272148
             }, 
             {
-                "to": "St. Paul, Minnesota", 
+                "source": "Detroit, Michigan", 
                 "route": "I-94", 
-                "from": "Detroit, Michigan", 
-                "distance": 534.6852431337619
+                "target": "St. Paul, Minnesota", 
+                "value": 534.6852431337619
             }, 
             {
-                "to": "St. Paul, Minnesota", 
+                "source": "Detroit, Michigan", 
                 "route": "I-94", 
-                "from": "Chicago, Illinois", 
-                "distance": 347.11656620987577
+                "target": "Madison, Wisconsin", 
+                "value": 327.5059633444729
             }, 
             {
-                "to": "Minneapolis, Minnesota", 
+                "source": "Milwaukee, Wisconsin", 
                 "route": "I-94", 
-                "from": "Milwaukee, Wisconsin", 
-                "distance": 298.6101535902324
+                "target": "Minneapolis, Minnesota", 
+                "value": 298.6101535902324
             }, 
             {
-                "to": "St. Paul, Minnesota", 
+                "source": "Milwaukee, Wisconsin", 
                 "route": "I-94", 
-                "from": "Milwaukee, Wisconsin", 
-                "distance": 290.1312429213238
+                "target": "St. Paul, Minnesota", 
+                "value": 290.1312429213238
             }, 
             {
-                "to": "Minneapolis, Minnesota", 
+                "source": "Milwaukee, Wisconsin", 
                 "route": "I-94", 
-                "from": "Chicago, Illinois", 
-                "distance": 355.0715337884497
+                "target": "Madison, Wisconsin", 
+                "value": 75.70206481298094
             }, 
             {
-                "to": "Milwaukee, Wisconsin", 
+                "source": "Minneapolis, Minnesota", 
                 "route": "I-94", 
-                "from": "Detroit, Michigan", 
-                "distance": 252.2649252832526
+                "target": "St. Paul, Minnesota", 
+                "value": 8.740729672199894
             }, 
             {
-                "to": "Minneapolis, Minnesota", 
+                "source": "Minneapolis, Minnesota", 
                 "route": "I-94", 
-                "from": "Detroit, Michigan", 
-                "distance": 543.3900432272148
+                "target": "Madison, Wisconsin", 
+                "value": 233.07163749946113
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "St. Paul, Minnesota", 
                 "route": "I-94", 
-                "from": "Minneapolis, Minnesota", 
-                "distance": 233.07163749946113
+                "target": "Madison, Wisconsin", 
+                "value": 224.9968687094316
             }
         ]
     }, 
@@ -901,64 +901,64 @@
         "route": "I-90", 
         "heap": [
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Boston, Massachusetts", 
                 "route": "I-90", 
-                "from": "Chicago, Illinois", 
-                "distance": 122.45005746027482
+                "target": "Cleveland, Ohio", 
+                "value": 550.9706303732224
             }, 
             {
-                "to": "Cleveland, Ohio", 
+                "source": "Boston, Massachusetts", 
                 "route": "I-90", 
-                "from": "Chicago, Illinois", 
-                "distance": 308.0958258816841
+                "target": "Madison, Wisconsin", 
+                "value": 933.0494344860108
             }, 
             {
-                "to": "Boston, Massachusetts", 
+                "source": "Chicago, Illinois", 
                 "route": "I-90", 
-                "from": "Chicago, Illinois", 
-                "distance": 850.7975420827024
+                "target": "Cleveland, Ohio", 
+                "value": 308.0958258816841
             }, 
             {
-                "to": "Cleveland, Ohio", 
+                "source": "Chicago, Illinois", 
                 "route": "I-90", 
-                "from": "Boston, Massachusetts", 
-                "distance": 550.9706303732224
+                "target": "Boston, Massachusetts", 
+                "value": 850.7975420827024
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Cleveland, Ohio", 
                 "route": "I-90", 
-                "from": "Cleveland, Ohio", 
-                "distance": 409.46690527343094
+                "target": "Madison, Wisconsin", 
+                "value": 409.46690527343094
             }, 
             {
-                "to": "Cleveland, Ohio", 
+                "source": "Seattle, Washington", 
                 "route": "I-90", 
-                "from": "Seattle, Washington", 
-                "distance": 2025.8498895338898
+                "target": "Cleveland, Ohio", 
+                "value": 2025.8498895338898
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Seattle, Washington", 
                 "route": "I-90", 
-                "from": "Seattle, Washington", 
-                "distance": 1621.2925923218315
+                "target": "Madison, Wisconsin", 
+                "value": 1621.2925923218315
             }, 
             {
-                "to": "Seattle, Washington", 
+                "source": "Chicago, Illinois", 
                 "route": "I-90", 
-                "from": "Chicago, Illinois", 
-                "distance": 1737.4276169809143
+                "target": "Seattle, Washington", 
+                "value": 1737.4276169809143
             }, 
             {
-                "to": "Madison, Wisconsin", 
+                "source": "Chicago, Illinois", 
                 "route": "I-90", 
-                "from": "Boston, Massachusetts", 
-                "distance": 933.0494344860108
+                "target": "Madison, Wisconsin", 
+                "value": 122.45005746027482
             }, 
             {
-                "to": "Boston, Massachusetts", 
+                "source": "Seattle, Washington", 
                 "route": "I-90", 
-                "from": "Seattle, Washington", 
-                "distance": 2492.2945337142673
+                "target": "Boston, Massachusetts", 
+                "value": 2492.2945337142673
             }
         ]
     }, 
@@ -974,10 +974,10 @@
         "route": "I-55", 
         "heap": [
             {
-                "to": "Memphis, Tennessee", 
+                "source": "Chicago, Illinois", 
                 "route": "I-55", 
-                "from": "Chicago, Illinois", 
-                "distance": 482.2136603700102
+                "target": "Memphis, Tennessee", 
+                "value": 482.2136603700102
             }
         ]
     }, 
@@ -989,22 +989,22 @@
         "route": "I-71", 
         "heap": [
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Cleveland, Ohio", 
                 "route": "I-71", 
-                "from": "Columbus, Ohio", 
-                "distance": 100.19258287057772
+                "target": "Cincinnati, Ohio", 
+                "value": 222.4379497664252
             }, 
             {
-                "to": "Cleveland, Ohio", 
+                "source": "Columbus, Ohio", 
                 "route": "I-71", 
-                "from": "Columbus, Ohio", 
-                "distance": 126.30209646800242
+                "target": "Cleveland, Ohio", 
+                "value": 126.30209646800242
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Columbus, Ohio", 
                 "route": "I-71", 
-                "from": "Cleveland, Ohio", 
-                "distance": 222.4379497664252
+                "target": "Cincinnati, Ohio", 
+                "value": 100.19258287057772
             }
         ]
     }, 
@@ -1012,10 +1012,10 @@
         "route": "I-37", 
         "heap": [
             {
-                "to": "Corpus Christi, Texas", 
+                "source": "San Antonio, Texas", 
                 "route": "I-37", 
-                "from": "San Antonio, Texas", 
-                "distance": 130.1784578402771
+                "target": "Corpus Christi, Texas", 
+                "value": 130.1784578402771
             }
         ]
     }, 
@@ -1023,94 +1023,94 @@
         "route": "I-35", 
         "heap": [
             {
-                "to": "Austin, Texas", 
+                "source": "Austin, Texas", 
                 "route": "I-35", 
-                "from": "San Antonio, Texas", 
-                "distance": 73.50444971755613
+                "target": "Kansas City, Missouri", 
+                "value": 634.8271847702625
             }, 
             {
-                "to": "Laredo, Texas", 
+                "source": "Austin, Texas", 
                 "route": "I-35", 
-                "from": "San Antonio, Texas", 
-                "distance": 143.55470770559864
+                "target": "Laredo, Texas", 
+                "value": 215.87156569317963
             }, 
             {
-                "to": "Wichita, Kansas", 
+                "source": "Austin, Texas", 
                 "route": "I-35", 
-                "from": "Kansas City, Missouri", 
-                "distance": 178.52496373594002
+                "target": "Oklahoma City, Oklahoma", 
+                "value": 358.6101286437354
             }, 
             {
-                "to": "Laredo, Texas", 
+                "source": "Austin, Texas", 
                 "route": "I-35", 
-                "from": "Austin, Texas", 
-                "distance": 215.87156569317963
+                "target": "Wichita, Kansas", 
+                "value": 512.0681309676967
             }, 
             {
-                "to": "Wichita, Kansas", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-35", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 153.49605919657262
+                "target": "Kansas City, Missouri", 
+                "value": 298.1963972157815
             }, 
             {
-                "to": "Oklahoma City, Oklahoma", 
+                "source": "Kansas City, Missouri", 
                 "route": "I-35", 
-                "from": "Austin, Texas", 
-                "distance": 358.6101286437354
+                "target": "Wichita, Kansas", 
+                "value": 178.52496373594002
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Kansas City, Missouri", 
                 "route": "I-35", 
-                "from": "Austin, Texas", 
-                "distance": 634.8271847702625
+                "target": "Laredo, Texas", 
+                "value": 845.8781795660352
             }, 
             {
-                "to": "Wichita, Kansas", 
+                "source": "San Antonio, Texas", 
                 "route": "I-35", 
-                "from": "San Antonio, Texas", 
-                "distance": 573.4903479237529
+                "target": "Wichita, Kansas", 
+                "value": 573.4903479237529
             }, 
             {
-                "to": "Wichita, Kansas", 
+                "source": "San Antonio, Texas", 
                 "route": "I-35", 
-                "from": "Austin, Texas", 
-                "distance": 512.0681309676967
+                "target": "Laredo, Texas", 
+                "value": 143.55470770559864
             }, 
             {
-                "to": "Oklahoma City, Oklahoma", 
+                "source": "San Antonio, Texas", 
                 "route": "I-35", 
-                "from": "San Antonio, Texas", 
-                "distance": 420.3233539735421
+                "target": "Oklahoma City, Oklahoma", 
+                "value": 420.3233539735421
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-35", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 298.1963972157815
+                "target": "Wichita, Kansas", 
+                "value": 153.49605919657262
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "San Antonio, Texas", 
                 "route": "I-35", 
-                "from": "San Antonio, Texas", 
-                "distance": 703.3376575636903
+                "target": "Kansas City, Missouri", 
+                "value": 703.3376575636903
             }, 
             {
-                "to": "Laredo, Texas", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-35", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 558.9477241496809
+                "target": "Laredo, Texas", 
+                "value": 558.9477241496809
             }, 
             {
-                "to": "Laredo, Texas", 
+                "source": "San Antonio, Texas", 
                 "route": "I-35", 
-                "from": "Kansas City, Missouri", 
-                "distance": 845.8781795660352
+                "target": "Austin, Texas", 
+                "value": 73.50444971755613
             }, 
             {
-                "to": "Laredo, Texas", 
+                "source": "Wichita, Kansas", 
                 "route": "I-35", 
-                "from": "Wichita, Kansas", 
-                "distance": 711.0214849077186
+                "target": "Laredo, Texas", 
+                "value": 711.0214849077186
             }
         ]
     }, 
@@ -1126,40 +1126,40 @@
         "route": "I-30", 
         "heap": [
             {
-                "to": "Arlington, Texas", 
+                "source": "Arlington, Texas", 
                 "route": "I-30", 
-                "from": "Fort Worth, Texas", 
-                "distance": 13.040576921450281
+                "target": "Garland, Texas", 
+                "value": 29.898082780617294
             }, 
             {
-                "to": "Garland, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-30", 
-                "from": "Dallas, Texas", 
-                "distance": 13.12884282641625
+                "target": "Fort Worth, Texas", 
+                "value": 31.111763099583918
             }, 
             {
-                "to": "Arlington, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-30", 
-                "from": "Dallas, Texas", 
-                "distance": 18.332305278375614
+                "target": "Arlington, Texas", 
+                "value": 18.332305278375614
             }, 
             {
-                "to": "Fort Worth, Texas", 
+                "source": "Fort Worth, Texas", 
                 "route": "I-30", 
-                "from": "Dallas, Texas", 
-                "distance": 31.111763099583918
+                "target": "Arlington, Texas", 
+                "value": 13.040576921450281
             }, 
             {
-                "to": "Garland, Texas", 
+                "source": "Fort Worth, Texas", 
                 "route": "I-30", 
-                "from": "Fort Worth, Texas", 
-                "distance": 41.68301915182473
+                "target": "Garland, Texas", 
+                "value": 41.68301915182473
             }, 
             {
-                "to": "Garland, Texas", 
+                "source": "Dallas, Texas", 
                 "route": "I-30", 
-                "from": "Arlington, Texas", 
-                "distance": 29.898082780617294
+                "target": "Garland, Texas", 
+                "value": 13.12884282641625
             }
         ]
     }, 
@@ -1167,22 +1167,22 @@
         "route": "I-15", 
         "heap": [
             {
-                "to": "North Las Vegas, Nevada", 
+                "source": "Las Vegas, Nevada", 
                 "route": "I-15", 
-                "from": "Las Vegas, Nevada", 
-                "distance": 2.3522458274690488
+                "target": "North Las Vegas, Nevada", 
+                "value": 2.3522458274690488
             }, 
             {
-                "to": "North Las Vegas, Nevada", 
+                "source": "San Diego, California", 
                 "route": "I-15", 
-                "from": "San Diego, California", 
-                "distance": 266.91992469651734
+                "target": "North Las Vegas, Nevada", 
+                "value": 266.91992469651734
             }, 
             {
-                "to": "Las Vegas, Nevada", 
+                "source": "San Diego, California", 
                 "route": "I-15", 
-                "from": "San Diego, California", 
-                "distance": 264.5787917879097
+                "target": "Las Vegas, Nevada", 
+                "value": 264.5787917879097
             }
         ]
     }, 
@@ -1194,94 +1194,94 @@
         "route": "I-70", 
         "heap": [
             {
-                "to": "Columbus, Ohio", 
+                "source": "Baltimore, Maryland", 
                 "route": "I-70", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 168.4820552799967
+                "target": "Kansas City, Missouri", 
+                "value": 962.9199257169162
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Columbus, Ohio", 
                 "route": "I-70", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 230.74791625070287
+                "target": "Kansas City, Missouri", 
+                "value": 621.0302533801846
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Baltimore, Maryland", 
                 "route": "I-70", 
-                "from": "Kansas City, Missouri", 
-                "distance": 238.38668392508882
+                "target": "St. Louis, Missouri", 
+                "value": 732.5247194846976
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Columbus, Ohio", 
                 "route": "I-70", 
-                "from": "Columbus, Ohio", 
-                "distance": 396.67576108427266
+                "target": "St. Louis, Missouri", 
+                "value": 396.67576108427266
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Denver, Colorado", 
                 "route": "I-70", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 452.65426091239755
+                "target": "Baltimore, Maryland", 
+                "value": 1510.3250413108153
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Columbus, Ohio", 
                 "route": "I-70", 
-                "from": "Denver, Colorado", 
-                "distance": 796.874447776032
+                "target": "Denver, Colorado", 
+                "value": 1166.567838106449
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Columbus, Ohio", 
                 "route": "I-70", 
-                "from": "Columbus, Ohio", 
-                "distance": 343.775388589757
+                "target": "Baltimore, Maryland", 
+                "value": 343.775388589757
             }, 
             {
-                "to": "Denver, Colorado", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-70", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 1000.9840576876015
+                "target": "Kansas City, Missouri", 
+                "value": 452.65426091239755
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-70", 
-                "from": "Columbus, Ohio", 
-                "distance": 621.0302533801846
+                "target": "Denver, Colorado", 
+                "value": 1000.9840576876015
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-70", 
-                "from": "Denver, Colorado", 
-                "distance": 1510.3250413108153
+                "target": "St. Louis, Missouri", 
+                "value": 230.74791625070287
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Denver, Colorado", 
                 "route": "I-70", 
-                "from": "Denver, Colorado", 
-                "distance": 558.5338202997337
+                "target": "Kansas City, Missouri", 
+                "value": 558.5338202997337
             }, 
             {
-                "to": "Denver, Colorado", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-70", 
-                "from": "Columbus, Ohio", 
-                "distance": 1166.567838106449
+                "target": "Columbus, Ohio", 
+                "value": 168.4820552799967
             }, 
             {
-                "to": "Kansas City, Missouri", 
+                "source": "Denver, Colorado", 
                 "route": "I-70", 
-                "from": "Baltimore, Maryland", 
-                "distance": 962.9199257169162
+                "target": "St. Louis, Missouri", 
+                "value": 796.874447776032
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-70", 
-                "from": "Baltimore, Maryland", 
-                "distance": 732.5247194846976
+                "target": "Baltimore, Maryland", 
+                "value": 510.7983866411051
             }, 
             {
-                "to": "Baltimore, Maryland", 
+                "source": "Kansas City, Missouri", 
                 "route": "I-70", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 510.7983866411051
+                "target": "St. Louis, Missouri", 
+                "value": 238.38668392508882
             }
         ]
     }, 
@@ -1289,10 +1289,10 @@
         "route": "I-77", 
         "heap": [
             {
-                "to": "Cleveland, Ohio", 
+                "source": "Charlotte, North Carolina", 
                 "route": "I-77", 
-                "from": "Charlotte, North Carolina", 
-                "distance": 435.0795330757589
+                "target": "Cleveland, Ohio", 
+                "value": 435.0795330757589
             }
         ]
     }, 
@@ -1300,334 +1300,334 @@
         "route": "I-10", 
         "heap": [
             {
-                "to": "Chandler, Arizona", 
+                "source": "Baton Rouge, Louisiana", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 16.65027462685195
+                "target": "San Bernardino, California", 
+                "value": 1546.8009723602754
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "El Paso, Texas", 
                 "route": "I-10", 
-                "from": "Tucson, Arizona", 
-                "distance": 91.76447509865139
+                "target": "Chandler, Arizona", 
+                "value": 332.20002372274456
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Chandler, Arizona", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 54.84474304280789
+                "target": "Baton Rouge, Louisiana", 
+                "value": 1230.6219384837573
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 318.35235512232856
+                "target": "El Paso, Texas", 
+                "value": 672.8361423971342
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "El Paso, Texas", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 107.71141718856795
+                "target": "New Orleans, Louisiana", 
+                "value": 980.0318934068291
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Chandler, Arizona", 
                 "route": "I-10", 
-                "from": "New Orleans, Louisiana", 
-                "distance": 72.86767162882072
+                "target": "San Bernardino, California", 
+                "value": 318.632949842289
             }, 
             {
-                "to": "El Paso, Texas", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 500.48418611280306
+                "target": "Phoenix, Arizona", 
+                "value": 1015.9418842226844
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 446.7464947988599
+                "target": "El Paso, Texas", 
+                "value": 1470.2977190197626
             }, 
             {
-                "to": "Phoenix, Arizona", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 357.57644447060244
+                "target": "New Orleans, Louisiana", 
+                "value": 318.35235512232856
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "El Paso, Texas", 
-                "distance": 265.0343734419976
+                "target": "Baton Rouge, Louisiana", 
+                "value": 257.7986656868858
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "El Paso, Texas", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 257.7986656868858
+                "target": "San Bernardino, California", 
+                "value": 650.0764329192307
             }, 
             {
-                "to": "San Antonio, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 189.46112639165617
+                "target": "Tucson, Arizona", 
+                "value": 442.4812769818226
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "El Paso, Texas", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 303.5765748211118
+                "target": "Baton Rouge, Louisiana", 
+                "value": 910.7453587041964
             }, 
             {
-                "to": "El Paso, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 672.8361423971342
+                "target": "San Antonio, Texas", 
+                "value": 1203.6330029299224
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 507.6940760588126
+                "target": "Tucson, Arizona", 
+                "value": 937.8271456189929
             }, 
             {
-                "to": "El Paso, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 703.1773106642547
+                "target": "Phoenix, Arizona", 
+                "value": 357.57644447060244
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 1001.007263772559
+                "target": "Baton Rouge, Louisiana", 
+                "value": 1601.3673848907013
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 504.41339314828576
+                "target": "New Orleans, Louisiana", 
+                "value": 504.41339314828576
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 566.2755802471684
+                "target": "San Bernardino, California", 
+                "value": 1319.5181081415365
             }, 
             {
-                "to": "San Antonio, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 847.9621108122114
+                "target": "Chandler, Arizona", 
+                "value": 372.4109317127274
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "El Paso, Texas", 
-                "distance": 332.20002372274456
+                "target": "Chandler, Arizona", 
+                "value": 1001.007263772559
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "El Paso, Texas", 
                 "route": "I-10", 
-                "from": "El Paso, Texas", 
-                "distance": 650.0764329192307
+                "target": "Tucson, Arizona", 
+                "value": 265.0343734419976
             }, 
             {
-                "to": "El Paso, Texas", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 347.9754812875132
+                "target": "Tucson, Arizona", 
+                "value": 107.71141718856795
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 442.4812769818226
+                "target": "New Orleans, Louisiana", 
+                "value": 1315.675181243273
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "New Orleans, Louisiana", 
                 "route": "I-10", 
-                "from": "Tucson, Arizona", 
-                "distance": 390.9767384169007
+                "target": "Baton Rouge, Louisiana", 
+                "value": 72.86767162882072
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Chandler, Arizona", 
-                "distance": 1230.6219384837573
+                "target": "New Orleans, Louisiana", 
+                "value": 1672.619182984486
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "Chandler, Arizona", 
-                "distance": 318.632949842289
+                "target": "Jacksonville, Florida", 
+                "value": 822.2764158070546
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 1672.619182984486
+                "target": "Jacksonville, Florida", 
+                "value": 1011.7374171950418
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 1011.7374171950418
+                "target": "El Paso, Texas", 
+                "value": 500.48418611280306
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 937.8271456189929
+                "target": "Tucson, Arizona", 
+                "value": 763.3649898231619
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 763.3649898231619
+                "target": "New Orleans, Louisiana", 
+                "value": 507.6940760588126
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 2147.6678591183427
+                "target": "Chandler, Arizona", 
+                "value": 832.3940444347106
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 832.3940444347106
+                "target": "Baton Rouge, Louisiana", 
+                "value": 446.7464947988599
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "San Antonio, Texas", 
                 "route": "I-10", 
-                "from": "San Antonio, Texas", 
-                "distance": 1150.5546336702937
+                "target": "San Bernardino, California", 
+                "value": 1150.5546336702937
             }, 
             {
-                "to": "El Paso, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 1470.2977190197626
+                "target": "El Paso, Texas", 
+                "value": 703.1773106642547
             }, 
             {
-                "to": "Tucson, Arizona", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 1731.5583527711015
+                "target": "Houston, Texas", 
+                "value": 1373.4181748132755
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 1601.3673848907013
+                "target": "Tucson, Arizona", 
+                "value": 1731.5583527711015
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 1781.3973725577998
+                "target": "Chandler, Arizona", 
+                "value": 1781.3973725577998
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 1319.5181081415365
+                "target": "Baton Rouge, Louisiana", 
+                "value": 566.2755802471684
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Jacksonville, Florida", 
-                "distance": 2092.83004896437
+                "target": "San Antonio, Texas", 
+                "value": 847.9621108122114
             }, 
             {
-                "to": "Houston, Texas", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 1373.4181748132755
+                "target": "San Bernardino, California", 
+                "value": 54.84474304280789
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 1794.5821443614848
+                "target": "Jacksonville, Florida", 
+                "value": 1794.5821443614848
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Jacksonville, Florida", 
                 "route": "I-10", 
-                "from": "El Paso, Texas", 
-                "distance": 980.0318934068291
+                "target": "San Bernardino, California", 
+                "value": 2092.83004896437
             }, 
             {
-                "to": "Phoenix, Arizona", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 1015.9418842226844
+                "target": "El Paso, Texas", 
+                "value": 347.9754812875132
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Los Angeles, California", 
                 "route": "I-10", 
-                "from": "El Paso, Texas", 
-                "distance": 910.7453587041964
+                "target": "Jacksonville, Florida", 
+                "value": 2147.6678591183427
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Tucson, Arizona", 
                 "route": "I-10", 
-                "from": "Tucson, Arizona", 
-                "distance": 1244.355502453194
+                "target": "New Orleans, Louisiana", 
+                "value": 1244.355502453194
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "Tucson, Arizona", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 372.4109317127274
+                "target": "Chandler, Arizona", 
+                "value": 91.76447509865139
             }, 
             {
-                "to": "New Orleans, Louisiana", 
+                "source": "Tucson, Arizona", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 1315.675181243273
+                "target": "Baton Rouge, Louisiana", 
+                "value": 1174.6113000985317
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "Tucson, Arizona", 
                 "route": "I-10", 
-                "from": "Tucson, Arizona", 
-                "distance": 1174.6113000985317
+                "target": "San Bernardino, California", 
+                "value": 390.9767384169007
             }, 
             {
-                "to": "Chandler, Arizona", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "New Orleans, Louisiana", 
-                "distance": 1301.4956965525498
+                "target": "Chandler, Arizona", 
+                "value": 16.65027462685195
             }, 
             {
-                "to": "San Antonio, Texas", 
+                "source": "New Orleans, Louisiana", 
                 "route": "I-10", 
-                "from": "Los Angeles, California", 
-                "distance": 1203.6330029299224
+                "target": "Chandler, Arizona", 
+                "value": 1301.4956965525498
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "New Orleans, Louisiana", 
-                "distance": 1618.1086602476473
+                "target": "Baton Rouge, Louisiana", 
+                "value": 1244.6837787366271
             }, 
             {
-                "to": "Baton Rouge, Louisiana", 
+                "source": "New Orleans, Louisiana", 
                 "route": "I-10", 
-                "from": "Phoenix, Arizona", 
-                "distance": 1244.6837787366271
+                "target": "San Bernardino, California", 
+                "value": 1618.1086602476473
             }, 
             {
-                "to": "Jacksonville, Florida", 
+                "source": "Phoenix, Arizona", 
                 "route": "I-10", 
-                "from": "Houston, Texas", 
-                "distance": 822.2764158070546
+                "target": "San Bernardino, California", 
+                "value": 303.5765748211118
             }, 
             {
-                "to": "San Bernardino, California", 
+                "source": "Houston, Texas", 
                 "route": "I-10", 
-                "from": "Baton Rouge, Louisiana", 
-                "distance": 1546.8009723602754
+                "target": "San Antonio, Texas", 
+                "value": 189.46112639165617
             }
         ]
     }, 
@@ -1635,130 +1635,130 @@
         "route": "I-75", 
         "heap": [
             {
-                "to": "Toledo, Ohio", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 53.01142551714942
+                "target": "Cincinnati, Ohio", 
+                "value": 369.2409671626792
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-75", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 73.29156457386463
+                "target": "Hialeah, Florida", 
+                "value": 596.8283169197346
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Tampa, Florida", 
-                "distance": 197.11089567714419
+                "target": "Atlanta, Georgia", 
+                "value": 596.4238624093307
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-75", 
-                "from": "Cincinnati, Ohio", 
-                "distance": 183.75923942880465
+                "target": "Tampa, Florida", 
+                "value": 415.58159792559536
             }, 
             {
-                "to": "Lexington-Fayette, Kentucky", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 305.92419312611895
+                "target": "Lexington-Fayette, Kentucky", 
+                "value": 295.957351776805
             }, 
             {
-                "to": "Lexington-Fayette, Kentucky", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Tampa, Florida", 
-                "distance": 705.3625127244984
+                "target": "Lexington-Fayette, Kentucky", 
+                "value": 305.92419312611895
             }, 
             {
-                "to": "Tampa, Florida", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Atlanta, Georgia", 
-                "distance": 415.58159792559536
+                "target": "Hialeah, Florida", 
+                "value": 1146.3445327442644
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 255.0147110255413
+                "target": "Tampa, Florida", 
+                "value": 991.941841757395
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Cincinnati, Ohio", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 235.67645673186462
+                "target": "Toledo, Ohio", 
+                "value": 183.75923942880465
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "Cincinnati, Ohio", 
                 "route": "I-75", 
-                "from": "Atlanta, Georgia", 
-                "distance": 547.7640731837168
+                "target": "Hialeah, Florida", 
+                "value": 945.3105487802623
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-75", 
-                "from": "Atlanta, Georgia", 
-                "distance": 596.8283169197346
+                "target": "Toledo, Ohio", 
+                "value": 547.7640731837168
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Tampa, Florida", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 1146.3445327442644
+                "target": "Lexington-Fayette, Kentucky", 
+                "value": 705.3625127244984
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Tampa, Florida", 
                 "route": "I-75", 
-                "from": "Tampa, Florida", 
-                "distance": 777.6591664421376
+                "target": "Cincinnati, Ohio", 
+                "value": 777.6591664421376
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "Tampa, Florida", 
                 "route": "I-75", 
-                "from": "Tampa, Florida", 
-                "distance": 947.3556489950846
+                "target": "Toledo, Ohio", 
+                "value": 947.3556489950846
             }, 
             {
-                "to": "Atlanta, Georgia", 
+                "source": "Tampa, Florida", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 596.4238624093307
+                "target": "Hialeah, Florida", 
+                "value": 197.11089567714419
             }, 
             {
-                "to": "Tampa, Florida", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-75", 
-                "from": "Detroit, Michigan", 
-                "distance": 991.941841757395
+                "target": "Cincinnati, Ohio", 
+                "value": 73.29156457386463
             }, 
             {
-                "to": "Lexington-Fayette, Kentucky", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-75", 
-                "from": "Atlanta, Georgia", 
-                "distance": 295.957351776805
+                "target": "Toledo, Ohio", 
+                "value": 255.0147110255413
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Lexington-Fayette, Kentucky", 
                 "route": "I-75", 
-                "from": "Lexington-Fayette, Kentucky", 
-                "distance": 875.0825637875769
+                "target": "Hialeah, Florida", 
+                "value": 875.0825637875769
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Atlanta, Georgia", 
-                "distance": 369.2409671626792
+                "target": "Cincinnati, Ohio", 
+                "value": 235.67645673186462
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Detroit, Michigan", 
                 "route": "I-75", 
-                "from": "Cincinnati, Ohio", 
-                "distance": 945.3105487802623
+                "target": "Toledo, Ohio", 
+                "value": 53.01142551714942
             }, 
             {
-                "to": "Hialeah, Florida", 
+                "source": "Toledo, Ohio", 
                 "route": "I-75", 
-                "from": "Toledo, Ohio", 
-                "distance": 1105.3920656287182
+                "target": "Hialeah, Florida", 
+                "value": 1105.3920656287182
             }
         ]
     }, 
@@ -1766,10 +1766,10 @@
         "route": "I-76", 
         "heap": [
             {
-                "to": "Denver, Colorado", 
+                "source": "Philadelphia, Pennsylvania", 
                 "route": "I-76", 
-                "from": "Philadelphia, Pennsylvania", 
-                "distance": 1578.7112496973928
+                "target": "Denver, Colorado", 
+                "value": 1578.7112496973928
             }
         ]
     }, 
@@ -1781,40 +1781,40 @@
         "route": "I-74", 
         "heap": [
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Cincinnati, Ohio", 
                 "route": "I-74", 
-                "from": "Greensboro, North Carolina", 
-                "distance": 25.37870229237876
+                "target": "Greensboro, North Carolina", 
+                "value": 332.75147438352127
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Cincinnati, Ohio", 
                 "route": "I-74", 
-                "from": "Cincinnati, Ohio", 
-                "distance": 312.55951603760286
+                "target": "Winston-Salem, North Carolina", 
+                "value": 312.55951603760286
             }, 
             {
-                "to": "Cincinnati, Ohio", 
+                "source": "Greensboro, North Carolina", 
                 "route": "I-74", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 99.29669398760926
+                "target": "Winston-Salem, North Carolina", 
+                "value": 25.37870229237876
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-74", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 431.02206179311287
+                "target": "Greensboro, North Carolina", 
+                "value": 431.02206179311287
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-74", 
-                "from": "Cincinnati, Ohio", 
-                "distance": 332.75147438352127
+                "target": "Cincinnati, Ohio", 
+                "value": 99.29669398760926
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Indianapolis, Indiana", 
                 "route": "I-74", 
-                "from": "Indianapolis, Indiana", 
-                "distance": 410.1713690987052
+                "target": "Winston-Salem, North Carolina", 
+                "value": 410.1713690987052
             }
         ]
     }, 
@@ -1830,22 +1830,22 @@
         "route": "I-44", 
         "heap": [
             {
-                "to": "Tulsa, Oklahoma", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-44", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 97.7797182845631
+                "target": "St. Louis, Missouri", 
+                "value": 459.1879291572426
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-44", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 459.1879291572426
+                "target": "Tulsa, Oklahoma", 
+                "value": 97.7797182845631
             }, 
             {
-                "to": "St. Louis, Missouri", 
+                "source": "Tulsa, Oklahoma", 
                 "route": "I-44", 
-                "from": "Tulsa, Oklahoma", 
-                "distance": 361.4307456214423
+                "target": "St. Louis, Missouri", 
+                "value": 361.4307456214423
             }
         ]
     }, 
@@ -1853,10 +1853,10 @@
         "route": "I-45", 
         "heap": [
             {
-                "to": "Dallas, Texas", 
+                "source": "Houston, Texas", 
                 "route": "I-45", 
-                "from": "Houston, Texas", 
-                "distance": 224.29984005233223
+                "target": "Dallas, Texas", 
+                "value": 224.29984005233223
             }
         ]
     }, 
@@ -1868,172 +1868,172 @@
         "route": "I-40", 
         "heap": [
             {
-                "to": "Durham, North Carolina", 
+                "source": "Albuquerque, New Mexico", 
                 "route": "I-40", 
-                "from": "Raleigh, North Carolina", 
-                "distance": 20.787086851947947
+                "target": "Durham, North Carolina", 
+                "value": 1557.258411536211
             }, 
             {
-                "to": "Nashville-Davidson, Tennessee", 
+                "source": "Albuquerque, New Mexico", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 196.65452397798845
+                "target": "Greensboro, North Carolina", 
+                "value": 1506.938898437881
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Durham, North Carolina", 
                 "route": "I-40", 
-                "from": "Greensboro, North Carolina", 
-                "distance": 25.37870229237876
+                "target": "Winston-Salem, North Carolina", 
+                "value": 75.69438415572932
             }, 
             {
-                "to": "Oklahoma City, Oklahoma", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 604.4114407699831
+                "target": "Greensboro, North Carolina", 
+                "value": 580.6782507853429
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Albuquerque, New Mexico", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 390.97702105397514
+                "target": "Raleigh, North Carolina", 
+                "value": 1573.3840167610201
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Greensboro, North Carolina", 
                 "route": "I-40", 
-                "from": "Greensboro, North Carolina", 
-                "distance": 50.321814151071386
+                "target": "Winston-Salem, North Carolina", 
+                "value": 25.37870229237876
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Greensboro, North Carolina", 
                 "route": "I-40", 
-                "from": "Durham, North Carolina", 
-                "distance": 75.69438415572932
+                "target": "Durham, North Carolina", 
+                "value": 50.321814151071386
             }, 
             {
-                "to": "Raleigh, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 644.6827864826807
+                "target": "Oklahoma City, Oklahoma", 
+                "value": 604.4114407699831
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 970.0172864159662
+                "target": "Raleigh, North Carolina", 
+                "value": 644.6827864826807
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 580.6782507853429
+                "target": "Albuquerque, New Mexico", 
+                "value": 936.7335458763139
             }, 
             {
-                "to": "Oklahoma City, Oklahoma", 
+                "source": "Albuquerque, New Mexico", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 422.45417044385994
+                "target": "Winston-Salem, North Carolina", 
+                "value": 1481.5640329518167
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 365.60647287967487
+                "target": "Durham, North Carolina", 
+                "value": 441.2397447728429
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Raleigh, North Carolina", 
-                "distance": 67.78251622678775
+                "target": "Durham, North Carolina", 
+                "value": 630.4036816376888
             }, 
             {
-                "to": "Albuquerque, New Mexico", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 514.3231853140121
+                "target": "Winston-Salem, North Carolina", 
+                "value": 555.5359569683802
             }, 
             {
-                "to": "Raleigh, North Carolina", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-40", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 1061.2324188166272
+                "target": "Raleigh, North Carolina", 
+                "value": 1061.2324188166272
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-40", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 995.386509631074
+                "target": "Greensboro, North Carolina", 
+                "value": 995.386509631074
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-40", 
-                "from": "Oklahoma City, Oklahoma", 
-                "distance": 1045.6385505544292
+                "target": "Durham, North Carolina", 
+                "value": 1045.6385505544292
             }, 
             {
-                "to": "Albuquerque, New Mexico", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 1116.4164158525086
+                "target": "Winston-Salem, North Carolina", 
+                "value": 970.0172864159662
             }, 
             {
-                "to": "Raleigh, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Albuquerque, New Mexico", 
-                "distance": 1573.3840167610201
+                "target": "Albuquerque, New Mexico", 
+                "value": 1116.4164158525086
             }, 
             {
-                "to": "Greensboro, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Albuquerque, New Mexico", 
-                "distance": 1506.938898437881
+                "target": "Raleigh, North Carolina", 
+                "value": 457.0313738655031
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Albuquerque, New Mexico", 
-                "distance": 1557.258411536211
+                "target": "Oklahoma City, Oklahoma", 
+                "value": 422.45417044385994
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Albuquerque, New Mexico", 
-                "distance": 1481.5640329518167
+                "target": "Greensboro, North Carolina", 
+                "value": 390.97702105397514
             }, 
             {
-                "to": "Raleigh, North Carolina", 
+                "source": "Raleigh, North Carolina", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 457.0313738655031
+                "target": "Greensboro, North Carolina", 
+                "value": 67.78251622678775
             }, 
             {
-                "to": "Albuquerque, New Mexico", 
+                "source": "Raleigh, North Carolina", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 936.7335458763139
+                "target": "Durham, North Carolina", 
+                "value": 20.787086851947947
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Raleigh, North Carolina", 
                 "route": "I-40", 
-                "from": "Nashville-Davidson, Tennessee", 
-                "distance": 441.2397447728429
+                "target": "Winston-Salem, North Carolina", 
+                "value": 92.71344800187583
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Nashville-Davidson, Tennessee", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 555.5359569683802
+                "target": "Winston-Salem, North Carolina", 
+                "value": 365.60647287967487
             }, 
             {
-                "to": "Winston-Salem, North Carolina", 
+                "source": "Memphis, Tennessee", 
                 "route": "I-40", 
-                "from": "Raleigh, North Carolina", 
-                "distance": 92.71344800187583
+                "target": "Nashville-Davidson, Tennessee", 
+                "value": 196.65452397798845
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Oklahoma City, Oklahoma", 
                 "route": "I-40", 
-                "from": "Memphis, Tennessee", 
-                "distance": 630.4036816376888
+                "target": "Albuquerque, New Mexico", 
+                "value": 514.3231853140121
             }
         ]
     }, 
@@ -2049,94 +2049,94 @@
         "route": "I-80", 
         "heap": [
             {
-                "to": "Oakland, California", 
+                "source": "Lincoln, Nebraska", 
                 "route": "I-80", 
-                "from": "San Francisco, California", 
-                "distance": 8.366864808544166
+                "target": "Reno, Nevada", 
+                "value": 1223.7464807075626
             }, 
             {
-                "to": "Sacramento, California", 
+                "source": "Oakland, California", 
                 "route": "I-80", 
-                "from": "San Francisco, California", 
-                "distance": 75.0433891433469
+                "target": "Toledo, Ohio", 
+                "value": 2061.8794254498407
             }, 
             {
-                "to": "Oakland, California", 
+                "source": "Oakland, California", 
                 "route": "I-80", 
-                "from": "Sacramento, California", 
-                "distance": 68.27162815446394
+                "target": "Lincoln, Nebraska", 
+                "value": 1381.794042229683
             }, 
             {
-                "to": "Reno, Nevada", 
+                "source": "Sacramento, California", 
                 "route": "I-80", 
-                "from": "Sacramento, California", 
-                "distance": 111.56538486443273
+                "target": "Reno, Nevada", 
+                "value": 111.56538486443273
             }, 
             {
-                "to": "Reno, Nevada", 
+                "source": "Sacramento, California", 
                 "route": "I-80", 
-                "from": "San Francisco, California", 
-                "distance": 185.7601284594804
+                "target": "Lincoln, Nebraska", 
+                "value": 1326.6277883312691
             }, 
             {
-                "to": "Reno, Nevada", 
+                "source": "Sacramento, California", 
                 "route": "I-80", 
-                "from": "Oakland, California", 
-                "distance": 178.3718068961297
+                "target": "Toledo, Ohio", 
+                "value": 2004.4310501161342
             }, 
             {
-                "to": "Reno, Nevada", 
+                "source": "Oakland, California", 
                 "route": "I-80", 
-                "from": "Lincoln, Nebraska", 
-                "distance": 1223.7464807075626
+                "target": "Reno, Nevada", 
+                "value": 178.3718068961297
             }, 
             {
-                "to": "Lincoln, Nebraska", 
+                "source": "San Francisco, California", 
                 "route": "I-80", 
-                "from": "San Francisco, California", 
-                "distance": 1390.1517103555025
+                "target": "Sacramento, California", 
+                "value": 75.0433891433469
             }, 
             {
-                "to": "Lincoln, Nebraska", 
+                "source": "San Francisco, California", 
                 "route": "I-80", 
-                "from": "Sacramento, California", 
-                "distance": 1326.6277883312691
+                "target": "Oakland, California", 
+                "value": 8.366864808544166
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "San Francisco, California", 
                 "route": "I-80", 
-                "from": "Oakland, California", 
-                "distance": 2061.8794254498407
+                "target": "Reno, Nevada", 
+                "value": 185.7601284594804
             }, 
             {
-                "to": "Lincoln, Nebraska", 
+                "source": "Sacramento, California", 
                 "route": "I-80", 
-                "from": "Oakland, California", 
-                "distance": 1381.794042229683
+                "target": "Oakland, California", 
+                "value": 68.27162815446394
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "San Francisco, California", 
                 "route": "I-80", 
-                "from": "San Francisco, California", 
-                "distance": 2070.2044103938015
+                "target": "Toledo, Ohio", 
+                "value": 2070.2044103938015
             }, 
             {
-                "to": "Lincoln, Nebraska", 
+                "source": "Toledo, Ohio", 
                 "route": "I-80", 
-                "from": "Toledo, Ohio", 
-                "distance": 685.6501336650986
+                "target": "Lincoln, Nebraska", 
+                "value": 685.6501336650986
             }, 
             {
-                "to": "Toledo, Ohio", 
+                "source": "Toledo, Ohio", 
                 "route": "I-80", 
-                "from": "Sacramento, California", 
-                "distance": 2004.4310501161342
+                "target": "Reno, Nevada", 
+                "value": 1898.6747965310685
             }, 
             {
-                "to": "Reno, Nevada", 
+                "source": "San Francisco, California", 
                 "route": "I-80", 
-                "from": "Toledo, Ohio", 
-                "distance": 1898.6747965310685
+                "target": "Lincoln, Nebraska", 
+                "value": 1390.1517103555025
             }
         ]
     }, 
@@ -2152,10 +2152,10 @@
         "route": "I-84", 
         "heap": [
             {
-                "to": "Boise City, Idaho", 
+                "source": "Portland, Oregon", 
                 "route": "I-84", 
-                "from": "Portland, Oregon", 
-                "distance": 344.85436538900507
+                "target": "Boise City, Idaho", 
+                "value": 344.85436538900507
             }
         ]
     }, 
@@ -2163,22 +2163,22 @@
         "route": "I-85", 
         "heap": [
             {
-                "to": "Durham, North Carolina", 
+                "source": "Atlanta, Georgia", 
                 "route": "I-85", 
-                "from": "Charlotte, North Carolina", 
-                "distance": 121.57120240626617
+                "target": "Durham, North Carolina", 
+                "value": 348.0724189158716
             }, 
             {
-                "to": "Atlanta, Georgia", 
+                "source": "Charlotte, North Carolina", 
                 "route": "I-85", 
-                "from": "Charlotte, North Carolina", 
-                "distance": 226.50595901609498
+                "target": "Durham, North Carolina", 
+                "value": 121.57120240626617
             }, 
             {
-                "to": "Durham, North Carolina", 
+                "source": "Charlotte, North Carolina", 
                 "route": "I-85", 
-                "from": "Atlanta, Georgia", 
-                "distance": 348.0724189158716
+                "target": "Atlanta, Georgia", 
+                "value": 226.50595901609498
             }
         ]
     }
