@@ -18,7 +18,8 @@ with open("data/raw-interstates.tsv") as lines:
             ROUTES[(state, city.strip())].add(route)
 
 
-for city in CITIES:
+for i, city in enumerate(CITIES):
+    city["id"] = i
     city["routes"] = sorted(ROUTES[(city["state"], city["city"])])
 
 
