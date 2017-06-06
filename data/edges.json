@@ -1,0 +1,2936 @@
+[
+    {
+        "group": 13, 
+        "group_name": "I-35W", 
+        "source": "Fort Worth, Texas", 
+        "source_id": "16", 
+        "target": "Minneapolis, Minnesota", 
+        "target_id": "45", 
+        "value": 870.8313576046191
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Indianapolis, Indiana", 
+        "target_id": "11", 
+        "value": 865.2327780091879
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Memphis, Tennessee", 
+        "target_id": "19", 
+        "value": 484.10312031845393
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Corpus Christi, Texas", 
+        "target_id": "59", 
+        "value": 182.57258911962572
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Fort Wayne, Indiana", 
+        "target_id": "75", 
+        "value": 969.1184041811279
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Memphis, Tennessee", 
+        "target_id": "19", 
+        "value": 383.5933085648572
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Corpus Christi, Texas", 
+        "target_id": "59", 
+        "value": 1046.275445126816
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Fort Wayne, Indiana", 
+        "target_id": "75", 
+        "value": 105.19596875734949
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Corpus Christi, Texas", 
+        "target_id": "59", 
+        "value": 666.3030669323085
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Fort Wayne, Indiana", 
+        "target_id": "75", 
+        "value": 488.5106089582966
+    }, 
+    {
+        "group": 28, 
+        "group_name": "I-69", 
+        "source": "Corpus Christi, Texas", 
+        "source_id": "59", 
+        "target": "Fort Wayne, Indiana", 
+        "target_id": "75", 
+        "value": 1149.706539949482
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Fort Worth, Texas", 
+        "target_id": "16", 
+        "value": 31.111763099583918
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Atlanta, Georgia", 
+        "target_id": "39", 
+        "value": 721.1127842321335
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Arlington, Texas", 
+        "target_id": "49", 
+        "value": 18.332305278375614
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Fort Worth, Texas", 
+        "source_id": "16", 
+        "target": "Atlanta, Georgia", 
+        "target_id": "39", 
+        "value": 752.0513209955661
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Fort Worth, Texas", 
+        "source_id": "16", 
+        "target": "Arlington, Texas", 
+        "target_id": "49", 
+        "value": 13.040576921450281
+    }, 
+    {
+        "group": 5, 
+        "group_name": "I-20", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Arlington, Texas", 
+        "target_id": "49", 
+        "value": 739.4450809239532
+    }, 
+    {
+        "group": 7, 
+        "group_name": "I-25", 
+        "source": "Denver, Colorado", 
+        "source_id": "21", 
+        "target": "Albuquerque, New Mexico", 
+        "target_id": "31", 
+        "value": 333.0029977683511
+    }, 
+    {
+        "group": 7, 
+        "group_name": "I-25", 
+        "source": "Denver, Colorado", 
+        "source_id": "21", 
+        "target": "Colorado Springs, Colorado", 
+        "target_id": "40", 
+        "value": 63.10886561220761
+    }, 
+    {
+        "group": 7, 
+        "group_name": "I-25", 
+        "source": "Albuquerque, New Mexico", 
+        "source_id": "31", 
+        "target": "Colorado Springs, Colorado", 
+        "target_id": "40", 
+        "value": 276.6892555393289
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Virginia Beach, Virginia", 
+        "source_id": "38", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 787.6113347140864
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Virginia Beach, Virginia", 
+        "source_id": "38", 
+        "target": "Lexington-Fayette, Kentucky", 
+        "target_id": "60", 
+        "value": 475.69981450053837
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Virginia Beach, Virginia", 
+        "source_id": "38", 
+        "target": "Norfolk, Virginia", 
+        "target_id": "80", 
+        "value": 17.062667219132273
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Virginia Beach, Virginia", 
+        "source_id": "38", 
+        "target": "Chesapeake, Virginia", 
+        "target_id": "90", 
+        "value": 18.12806768003357
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Virginia Beach, Virginia", 
+        "source_id": "38", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 93.37731671090955
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "St. Louis, Missouri", 
+        "source_id": "57", 
+        "target": "Lexington-Fayette, Kentucky", 
+        "target_id": "60", 
+        "value": 312.0166386812289
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "St. Louis, Missouri", 
+        "source_id": "57", 
+        "target": "Norfolk, Virginia", 
+        "target_id": "80", 
+        "value": 771.0413978016879
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "St. Louis, Missouri", 
+        "source_id": "57", 
+        "target": "Chesapeake, Virginia", 
+        "target_id": "90", 
+        "value": 772.2891416734693
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "St. Louis, Missouri", 
+        "source_id": "57", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 699.2329338128296
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Norfolk, Virginia", 
+        "target_id": "80", 
+        "value": 459.0831619905848
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Chesapeake, Virginia", 
+        "target_id": "90", 
+        "value": 460.2880343974443
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 388.2608778462598
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Norfolk, Virginia", 
+        "source_id": "80", 
+        "target": "Chesapeake, Virginia", 
+        "target_id": "90", 
+        "value": 5.69373063297852
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Norfolk, Virginia", 
+        "source_id": "80", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 79.30825787182984
+    }, 
+    {
+        "group": 25, 
+        "group_name": "I-64", 
+        "source": "Chesapeake, Virginia", 
+        "source_id": "90", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 82.8067589415058
+    }, 
+    {
+        "group": 26, 
+        "group_name": "I-65", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Nashville-Davidson, Tennessee", 
+        "target_id": "24", 
+        "value": 251.0041773690884
+    }, 
+    {
+        "group": 12, 
+        "group_name": "I-35E", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "St. Paul, Minnesota", 
+        "target_id": "65", 
+        "value": 863.1833459135775
+    }, 
+    {
+        "group": 37, 
+        "group_name": "I-78", 
+        "source": "Newark, New Jersey", 
+        "source_id": "68", 
+        "target": "Jersey City, New Jersey", 
+        "target_id": "73", 
+        "value": 4.999012693105877
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "San Diego, California", 
+        "target_id": "7", 
+        "value": 111.36019966287573
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Seattle, Washington", 
+        "target_id": "20", 
+        "value": 959.1472307035286
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Portland, Oregon", 
+        "target_id": "28", 
+        "value": 825.4572348095738
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Sacramento, California", 
+        "target_id": "34", 
+        "value": 361.08958759478804
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Bakersfield, California", 
+        "target_id": "51", 
+        "value": 101.18534055876718
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 24.10657375710743
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 30.221578070964526
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 318.7698082613063
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 118.19075570464706
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 36.203254170878715
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Seattle, Washington", 
+        "target_id": "20", 
+        "value": 1062.5934060584063
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Portland, Oregon", 
+        "target_id": "28", 
+        "value": 931.2822586215043
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Sacramento, California", 
+        "target_id": "34", 
+        "value": 472.0855780601909
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Bakersfield, California", 
+        "target_id": "51", 
+        "value": 211.91050253083304
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 88.62813846322089
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 81.9290775586831
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 430.0160358428019
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 6.87596241597338
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 76.15555034887984
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Portland, Oregon", 
+        "target_id": "28", 
+        "value": 144.82146943205296
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Sacramento, California", 
+        "target_id": "34", 
+        "value": 624.4092595736473
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Bakersfield, California", 
+        "target_id": "51", 
+        "value": 861.3257579109686
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 977.6904380761123
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 984.3048625070949
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 668.0941083624331
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 1068.7023252518477
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 989.3588307067014
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Sacramento, California", 
+        "target_id": "34", 
+        "value": 482.9179776674822
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Bakersfield, California", 
+        "target_id": "51", 
+        "value": 726.1678161930429
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 844.9434348701402
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 851.627809795988
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 526.9873088357429
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 937.5751777177593
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 856.8762648686594
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Bakersfield, California", 
+        "target_id": "51", 
+        "value": 260.1767401563791
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 383.46291906284273
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 390.1565652218475
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 44.431924633580245
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 478.84052050615225
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 395.94997186603536
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Bakersfield, California", 
+        "source_id": "51", 
+        "target": "Anaheim, California", 
+        "target_id": "55", 
+        "value": 123.28618142863115
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Bakersfield, California", 
+        "source_id": "51", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 129.98164187895551
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Bakersfield, California", 
+        "source_id": "51", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 218.3570333560841
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Bakersfield, California", 
+        "source_id": "51", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 218.66380731991813
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Bakersfield, California", 
+        "source_id": "51", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 135.77424891276095
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Anaheim, California", 
+        "source_id": "55", 
+        "target": "Santa Ana, California", 
+        "target_id": "56", 
+        "value": 6.741685075796821
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Anaheim, California", 
+        "source_id": "55", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 341.4854288171701
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Anaheim, California", 
+        "source_id": "55", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 95.37774514678604
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Anaheim, California", 
+        "source_id": "55", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 12.504932361482624
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Santa Ana, California", 
+        "source_id": "56", 
+        "target": "Stockton, California", 
+        "target_id": "63", 
+        "value": 348.1418194294759
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Santa Ana, California", 
+        "source_id": "56", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 88.69034251335428
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Santa Ana, California", 
+        "source_id": "56", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 5.982085946208538
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Stockton, California", 
+        "source_id": "63", 
+        "target": "Chula Vista, California", 
+        "target_id": "74", 
+        "value": 436.8082734856757
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Stockton, California", 
+        "source_id": "63", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 353.989172131081
+    }, 
+    {
+        "group": 22, 
+        "group_name": "I-5", 
+        "source": "Chula Vista, California", 
+        "source_id": "74", 
+        "target": "Irvine, California", 
+        "target_id": "84", 
+        "value": 82.89256700913977
+    }, 
+    {
+        "group": 15, 
+        "group_name": "I-4", 
+        "source": "Tampa, Florida", 
+        "source_id": "52", 
+        "target": "Orlando, Florida", 
+        "target_id": "76", 
+        "value": 77.19462882277901
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Philadelphia, Pennsylvania", 
+        "target_id": "4", 
+        "value": 80.61055079003864
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 834.6670476774347
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Washington, District of Columbia", 
+        "target_id": "22", 
+        "value": 203.75628815709112
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 169.55781550766284
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Miami, Florida", 
+        "target_id": "43", 
+        "value": 1090.101745294014
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 8.87816379719866
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "New York, New York", 
+        "source_id": "0", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 286.04109216359234
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 757.6783097414896
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Washington, District of Columbia", 
+        "target_id": "22", 
+        "value": 123.39565526644445
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 89.70297241828615
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Miami, Florida", 
+        "target_id": "43", 
+        "value": 1020.2080098615553
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 75.2770169840042
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 206.68314184754664
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Washington, District of Columbia", 
+        "target_id": "22", 
+        "value": 646.786309988989
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 680.5318976416348
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Miami, Florida", 
+        "target_id": "43", 
+        "value": 327.175422596985
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 831.2265521364596
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 552.6470144452145
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Washington, District of Columbia", 
+        "source_id": "22", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 34.92613827444779
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Washington, District of Columbia", 
+        "source_id": "22", 
+        "target": "Miami, Florida", 
+        "target_id": "43", 
+        "value": 924.2479148917039
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Washington, District of Columbia", 
+        "source_id": "22", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 197.80790497228364
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Washington, District of Columbia", 
+        "source_id": "22", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 96.71876880904436
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Baltimore, Maryland", 
+        "source_id": "25", 
+        "target": "Miami, Florida", 
+        "target_id": "43", 
+        "value": 955.1443672777948
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Baltimore, Maryland", 
+        "source_id": "25", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 163.37933615576668
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Baltimore, Maryland", 
+        "source_id": "25", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 128.69612653442286
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Miami, Florida", 
+        "source_id": "43", 
+        "target": "Newark, New Jersey", 
+        "target_id": "68", 
+        "value": 1088.494343781287
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Miami, Florida", 
+        "source_id": "43", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 827.5373706225507
+    }, 
+    {
+        "group": 47, 
+        "group_name": "I-95", 
+        "source": "Newark, New Jersey", 
+        "source_id": "68", 
+        "target": "Richmond, Virginia", 
+        "target_id": "98", 
+        "value": 281.58379750752295
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Detroit, Michigan", 
+        "target_id": "17", 
+        "value": 237.642244231875
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Milwaukee, Wisconsin", 
+        "target_id": "30", 
+        "value": 81.35961310367564
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Minneapolis, Minnesota", 
+        "target_id": "45", 
+        "value": 355.0715337884497
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "St. Paul, Minnesota", 
+        "target_id": "65", 
+        "value": 347.11656620987577
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 122.45005746027482
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Milwaukee, Wisconsin", 
+        "target_id": "30", 
+        "value": 252.2649252832526
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Minneapolis, Minnesota", 
+        "target_id": "45", 
+        "value": 543.3900432272148
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "St. Paul, Minnesota", 
+        "target_id": "65", 
+        "value": 534.6852431337619
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 327.5059633444729
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Milwaukee, Wisconsin", 
+        "source_id": "30", 
+        "target": "Minneapolis, Minnesota", 
+        "target_id": "45", 
+        "value": 298.6101535902324
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Milwaukee, Wisconsin", 
+        "source_id": "30", 
+        "target": "St. Paul, Minnesota", 
+        "target_id": "65", 
+        "value": 290.1312429213238
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Milwaukee, Wisconsin", 
+        "source_id": "30", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 75.70206481298094
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Minneapolis, Minnesota", 
+        "source_id": "45", 
+        "target": "St. Paul, Minnesota", 
+        "target_id": "65", 
+        "value": 8.740729672199894
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "Minneapolis, Minnesota", 
+        "source_id": "45", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 233.07163749946113
+    }, 
+    {
+        "group": 46, 
+        "group_name": "I-94", 
+        "source": "St. Paul, Minnesota", 
+        "source_id": "65", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 224.9968687094316
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Seattle, Washington", 
+        "target_id": "20", 
+        "value": 1737.4276169809143
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Boston, Massachusetts", 
+        "target_id": "23", 
+        "value": 850.7975420827024
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Cleveland, Ohio", 
+        "target_id": "47", 
+        "value": 308.0958258816841
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 122.45005746027482
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Boston, Massachusetts", 
+        "target_id": "23", 
+        "value": 2492.2945337142673
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Cleveland, Ohio", 
+        "target_id": "47", 
+        "value": 2025.8498895338898
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Seattle, Washington", 
+        "source_id": "20", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 1621.2925923218315
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Boston, Massachusetts", 
+        "source_id": "23", 
+        "target": "Cleveland, Ohio", 
+        "target_id": "47", 
+        "value": 550.9706303732224
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Boston, Massachusetts", 
+        "source_id": "23", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 933.0494344860108
+    }, 
+    {
+        "group": 44, 
+        "group_name": "I-90", 
+        "source": "Cleveland, Ohio", 
+        "source_id": "47", 
+        "target": "Madison, Wisconsin", 
+        "target_id": "82", 
+        "value": 409.46690527343094
+    }, 
+    {
+        "group": 23, 
+        "group_name": "I-55", 
+        "source": "Chicago, Illinois", 
+        "source_id": "2", 
+        "target": "Memphis, Tennessee", 
+        "target_id": "19", 
+        "value": 482.2136603700102
+    }, 
+    {
+        "group": 31, 
+        "group_name": "I-71", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "Cleveland, Ohio", 
+        "target_id": "47", 
+        "value": 126.30209646800242
+    }, 
+    {
+        "group": 31, 
+        "group_name": "I-71", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 100.19258287057772
+    }, 
+    {
+        "group": 31, 
+        "group_name": "I-71", 
+        "source": "Cleveland, Ohio", 
+        "source_id": "47", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 222.4379497664252
+    }, 
+    {
+        "group": 14, 
+        "group_name": "I-37", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Corpus Christi, Texas", 
+        "target_id": "59", 
+        "value": 130.1784578402771
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Austin, Texas", 
+        "target_id": "10", 
+        "value": 73.50444971755613
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Oklahoma City, Oklahoma", 
+        "target_id": "26", 
+        "value": 420.3233539735421
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 703.3376575636903
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Wichita, Kansas", 
+        "target_id": "48", 
+        "value": 573.4903479237529
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Laredo, Texas", 
+        "target_id": "79", 
+        "value": 143.55470770559864
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Austin, Texas", 
+        "source_id": "10", 
+        "target": "Oklahoma City, Oklahoma", 
+        "target_id": "26", 
+        "value": 358.6101286437354
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Austin, Texas", 
+        "source_id": "10", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 634.8271847702625
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Austin, Texas", 
+        "source_id": "10", 
+        "target": "Wichita, Kansas", 
+        "target_id": "48", 
+        "value": 512.0681309676967
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Austin, Texas", 
+        "source_id": "10", 
+        "target": "Laredo, Texas", 
+        "target_id": "79", 
+        "value": 215.87156569317963
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 298.1963972157815
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Wichita, Kansas", 
+        "target_id": "48", 
+        "value": 153.49605919657262
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Laredo, Texas", 
+        "target_id": "79", 
+        "value": 558.9477241496809
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Kansas City, Missouri", 
+        "source_id": "36", 
+        "target": "Wichita, Kansas", 
+        "target_id": "48", 
+        "value": 178.52496373594002
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Kansas City, Missouri", 
+        "source_id": "36", 
+        "target": "Laredo, Texas", 
+        "target_id": "79", 
+        "value": 845.8781795660352
+    }, 
+    {
+        "group": 11, 
+        "group_name": "I-35", 
+        "source": "Wichita, Kansas", 
+        "source_id": "48", 
+        "target": "Laredo, Texas", 
+        "target_id": "79", 
+        "value": 711.0214849077186
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Fort Worth, Texas", 
+        "target_id": "16", 
+        "value": 31.111763099583918
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Arlington, Texas", 
+        "target_id": "49", 
+        "value": 18.332305278375614
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Dallas, Texas", 
+        "source_id": "8", 
+        "target": "Garland, Texas", 
+        "target_id": "87", 
+        "value": 13.12884282641625
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Fort Worth, Texas", 
+        "source_id": "16", 
+        "target": "Arlington, Texas", 
+        "target_id": "49", 
+        "value": 13.040576921450281
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Fort Worth, Texas", 
+        "source_id": "16", 
+        "target": "Garland, Texas", 
+        "target_id": "87", 
+        "value": 41.68301915182473
+    }, 
+    {
+        "group": 10, 
+        "group_name": "I-30", 
+        "source": "Arlington, Texas", 
+        "source_id": "49", 
+        "target": "Garland, Texas", 
+        "target_id": "87", 
+        "value": 29.898082780617294
+    }, 
+    {
+        "group": 2, 
+        "group_name": "I-15", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "Las Vegas, Nevada", 
+        "target_id": "29", 
+        "value": 264.5787917879097
+    }, 
+    {
+        "group": 2, 
+        "group_name": "I-15", 
+        "source": "San Diego, California", 
+        "source_id": "7", 
+        "target": "North Las Vegas, Nevada", 
+        "target_id": "95", 
+        "value": 266.91992469651734
+    }, 
+    {
+        "group": 2, 
+        "group_name": "I-15", 
+        "source": "Las Vegas, Nevada", 
+        "source_id": "29", 
+        "target": "North Las Vegas, Nevada", 
+        "target_id": "95", 
+        "value": 2.3522458274690488
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Columbus, Ohio", 
+        "target_id": "14", 
+        "value": 168.4820552799967
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Denver, Colorado", 
+        "target_id": "21", 
+        "value": 1000.9840576876015
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 510.7983866411051
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 452.65426091239755
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 230.74791625070287
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "Denver, Colorado", 
+        "target_id": "21", 
+        "value": 1166.567838106449
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 343.775388589757
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 621.0302533801846
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Columbus, Ohio", 
+        "source_id": "14", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 396.67576108427266
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Denver, Colorado", 
+        "source_id": "21", 
+        "target": "Baltimore, Maryland", 
+        "target_id": "25", 
+        "value": 1510.3250413108153
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Denver, Colorado", 
+        "source_id": "21", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 558.5338202997337
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Denver, Colorado", 
+        "source_id": "21", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 796.874447776032
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Baltimore, Maryland", 
+        "source_id": "25", 
+        "target": "Kansas City, Missouri", 
+        "target_id": "36", 
+        "value": 962.9199257169162
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Baltimore, Maryland", 
+        "source_id": "25", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 732.5247194846976
+    }, 
+    {
+        "group": 30, 
+        "group_name": "I-70", 
+        "source": "Kansas City, Missouri", 
+        "source_id": "36", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 238.38668392508882
+    }, 
+    {
+        "group": 36, 
+        "group_name": "I-77", 
+        "source": "Charlotte, North Carolina", 
+        "source_id": "15", 
+        "target": "Cleveland, Ohio", 
+        "target_id": "47", 
+        "value": 435.0795330757589
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Houston, Texas", 
+        "target_id": "3", 
+        "value": 1373.4181748132755
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Phoenix, Arizona", 
+        "target_id": "5", 
+        "value": 357.57644447060244
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "San Antonio, Texas", 
+        "target_id": "6", 
+        "value": 1203.6330029299224
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 2147.6678591183427
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "El Paso, Texas", 
+        "target_id": "18", 
+        "value": 703.1773106642547
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 442.4812769818226
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 1672.619182984486
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 372.4109317127274
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 1601.3673848907013
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Los Angeles, California", 
+        "source_id": "1", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 54.84474304280789
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Phoenix, Arizona", 
+        "target_id": "5", 
+        "value": 1015.9418842226844
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "San Antonio, Texas", 
+        "target_id": "6", 
+        "value": 189.46112639165617
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 822.2764158070546
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "El Paso, Texas", 
+        "target_id": "18", 
+        "value": 672.8361423971342
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 937.8271456189929
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 318.35235512232856
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 1001.007263772559
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 257.7986656868858
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 1319.5181081415365
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "San Antonio, Texas", 
+        "target_id": "6", 
+        "value": 847.9621108122114
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 1794.5821443614848
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "El Paso, Texas", 
+        "target_id": "18", 
+        "value": 347.9754812875132
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 107.71141718856795
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 1315.675181243273
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 16.65027462685195
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 1244.6837787366271
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Phoenix, Arizona", 
+        "source_id": "5", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 303.5765748211118
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Jacksonville, Florida", 
+        "target_id": "12", 
+        "value": 1011.7374171950418
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "El Paso, Texas", 
+        "target_id": "18", 
+        "value": 500.48418611280306
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 763.3649898231619
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 507.6940760588126
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 832.3940444347106
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 446.7464947988599
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "San Antonio, Texas", 
+        "source_id": "6", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 1150.5546336702937
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "El Paso, Texas", 
+        "target_id": "18", 
+        "value": 1470.2977190197626
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 1731.5583527711015
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 504.41339314828576
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 1781.3973725577998
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 566.2755802471684
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Jacksonville, Florida", 
+        "source_id": "12", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 2092.83004896437
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "El Paso, Texas", 
+        "source_id": "18", 
+        "target": "Tucson, Arizona", 
+        "target_id": "32", 
+        "value": 265.0343734419976
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "El Paso, Texas", 
+        "source_id": "18", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 980.0318934068291
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "El Paso, Texas", 
+        "source_id": "18", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 332.20002372274456
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "El Paso, Texas", 
+        "source_id": "18", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 910.7453587041964
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "El Paso, Texas", 
+        "source_id": "18", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 650.0764329192307
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Tucson, Arizona", 
+        "source_id": "32", 
+        "target": "New Orleans, Louisiana", 
+        "target_id": "50", 
+        "value": 1244.355502453194
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Tucson, Arizona", 
+        "source_id": "32", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 91.76447509865139
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Tucson, Arizona", 
+        "source_id": "32", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 1174.6113000985317
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Tucson, Arizona", 
+        "source_id": "32", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 390.9767384169007
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "New Orleans, Louisiana", 
+        "source_id": "50", 
+        "target": "Chandler, Arizona", 
+        "target_id": "78", 
+        "value": 1301.4956965525498
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "New Orleans, Louisiana", 
+        "source_id": "50", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 72.86767162882072
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "New Orleans, Louisiana", 
+        "source_id": "50", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 1618.1086602476473
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Chandler, Arizona", 
+        "source_id": "78", 
+        "target": "Baton Rouge, Louisiana", 
+        "target_id": "92", 
+        "value": 1230.6219384837573
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Chandler, Arizona", 
+        "source_id": "78", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 318.632949842289
+    }, 
+    {
+        "group": 0, 
+        "group_name": "I-10", 
+        "source": "Baton Rouge, Louisiana", 
+        "source_id": "92", 
+        "target": "San Bernardino, California", 
+        "target_id": "99", 
+        "value": 1546.8009723602754
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Atlanta, Georgia", 
+        "target_id": "39", 
+        "value": 596.4238624093307
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Tampa, Florida", 
+        "target_id": "52", 
+        "value": 991.941841757395
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Lexington-Fayette, Kentucky", 
+        "target_id": "60", 
+        "value": 305.92419312611895
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 235.67645673186462
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 53.01142551714942
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Detroit, Michigan", 
+        "source_id": "17", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 1146.3445327442644
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Tampa, Florida", 
+        "target_id": "52", 
+        "value": 415.58159792559536
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Lexington-Fayette, Kentucky", 
+        "target_id": "60", 
+        "value": 295.957351776805
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 369.2409671626792
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 547.7640731837168
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 596.8283169197346
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Tampa, Florida", 
+        "source_id": "52", 
+        "target": "Lexington-Fayette, Kentucky", 
+        "target_id": "60", 
+        "value": 705.3625127244984
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Tampa, Florida", 
+        "source_id": "52", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 777.6591664421376
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Tampa, Florida", 
+        "source_id": "52", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 947.3556489950846
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Tampa, Florida", 
+        "source_id": "52", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 197.11089567714419
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 73.29156457386463
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 255.0147110255413
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Lexington-Fayette, Kentucky", 
+        "source_id": "60", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 875.0825637875769
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Cincinnati, Ohio", 
+        "source_id": "64", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 183.75923942880465
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Cincinnati, Ohio", 
+        "source_id": "64", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 945.3105487802623
+    }, 
+    {
+        "group": 34, 
+        "group_name": "I-75", 
+        "source": "Toledo, Ohio", 
+        "source_id": "66", 
+        "target": "Hialeah, Florida", 
+        "target_id": "88", 
+        "value": 1105.3920656287182
+    }, 
+    {
+        "group": 35, 
+        "group_name": "I-76", 
+        "source": "Philadelphia, Pennsylvania", 
+        "source_id": "4", 
+        "target": "Denver, Colorado", 
+        "target_id": "21", 
+        "value": 1578.7112496973928
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Cincinnati, Ohio", 
+        "target_id": "64", 
+        "value": 99.29669398760926
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 431.02206179311287
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Indianapolis, Indiana", 
+        "source_id": "11", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 410.1713690987052
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Cincinnati, Ohio", 
+        "source_id": "64", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 332.75147438352127
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Cincinnati, Ohio", 
+        "source_id": "64", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 312.55951603760286
+    }, 
+    {
+        "group": 33, 
+        "group_name": "I-74", 
+        "source": "Greensboro, North Carolina", 
+        "source_id": "67", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 25.37870229237876
+    }, 
+    {
+        "group": 19, 
+        "group_name": "I-44", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Tulsa, Oklahoma", 
+        "target_id": "46", 
+        "value": 97.7797182845631
+    }, 
+    {
+        "group": 19, 
+        "group_name": "I-44", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 459.1879291572426
+    }, 
+    {
+        "group": 19, 
+        "group_name": "I-44", 
+        "source": "Tulsa, Oklahoma", 
+        "source_id": "46", 
+        "target": "St. Louis, Missouri", 
+        "target_id": "57", 
+        "value": 361.4307456214423
+    }, 
+    {
+        "group": 20, 
+        "group_name": "I-45", 
+        "source": "Houston, Texas", 
+        "source_id": "3", 
+        "target": "Dallas, Texas", 
+        "target_id": "8", 
+        "value": 224.29984005233223
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Nashville-Davidson, Tennessee", 
+        "target_id": "24", 
+        "value": 196.65452397798845
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Oklahoma City, Oklahoma", 
+        "target_id": "26", 
+        "value": 422.45417044385994
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Albuquerque, New Mexico", 
+        "target_id": "31", 
+        "value": 936.7335458763139
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Raleigh, North Carolina", 
+        "target_id": "42", 
+        "value": 644.6827864826807
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 580.6782507853429
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 630.4036816376888
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Memphis, Tennessee", 
+        "source_id": "19", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 555.5359569683802
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Oklahoma City, Oklahoma", 
+        "target_id": "26", 
+        "value": 604.4114407699831
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Albuquerque, New Mexico", 
+        "target_id": "31", 
+        "value": 1116.4164158525086
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Raleigh, North Carolina", 
+        "target_id": "42", 
+        "value": 457.0313738655031
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 390.97702105397514
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 441.2397447728429
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Nashville-Davidson, Tennessee", 
+        "source_id": "24", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 365.60647287967487
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Albuquerque, New Mexico", 
+        "target_id": "31", 
+        "value": 514.3231853140121
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Raleigh, North Carolina", 
+        "target_id": "42", 
+        "value": 1061.2324188166272
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 995.386509631074
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 1045.6385505544292
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Oklahoma City, Oklahoma", 
+        "source_id": "26", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 970.0172864159662
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Albuquerque, New Mexico", 
+        "source_id": "31", 
+        "target": "Raleigh, North Carolina", 
+        "target_id": "42", 
+        "value": 1573.3840167610201
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Albuquerque, New Mexico", 
+        "source_id": "31", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 1506.938898437881
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Albuquerque, New Mexico", 
+        "source_id": "31", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 1557.258411536211
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Albuquerque, New Mexico", 
+        "source_id": "31", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 1481.5640329518167
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Raleigh, North Carolina", 
+        "source_id": "42", 
+        "target": "Greensboro, North Carolina", 
+        "target_id": "67", 
+        "value": 67.78251622678775
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Raleigh, North Carolina", 
+        "source_id": "42", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 20.787086851947947
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Raleigh, North Carolina", 
+        "source_id": "42", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 92.71344800187583
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Greensboro, North Carolina", 
+        "source_id": "67", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 50.321814151071386
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Greensboro, North Carolina", 
+        "source_id": "67", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 25.37870229237876
+    }, 
+    {
+        "group": 16, 
+        "group_name": "I-40", 
+        "source": "Durham, North Carolina", 
+        "source_id": "81", 
+        "target": "Winston-Salem, North Carolina", 
+        "target_id": "85", 
+        "value": 75.69438415572932
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "San Francisco, California", 
+        "source_id": "13", 
+        "target": "Sacramento, California", 
+        "target_id": "34", 
+        "value": 75.0433891433469
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "San Francisco, California", 
+        "source_id": "13", 
+        "target": "Oakland, California", 
+        "target_id": "44", 
+        "value": 8.366864808544166
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "San Francisco, California", 
+        "source_id": "13", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 2070.2044103938015
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "San Francisco, California", 
+        "source_id": "13", 
+        "target": "Lincoln, Nebraska", 
+        "target_id": "71", 
+        "value": 1390.1517103555025
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "San Francisco, California", 
+        "source_id": "13", 
+        "target": "Reno, Nevada", 
+        "target_id": "89", 
+        "value": 185.7601284594804
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Oakland, California", 
+        "target_id": "44", 
+        "value": 68.27162815446394
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 2004.4310501161342
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Lincoln, Nebraska", 
+        "target_id": "71", 
+        "value": 1326.6277883312691
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Sacramento, California", 
+        "source_id": "34", 
+        "target": "Reno, Nevada", 
+        "target_id": "89", 
+        "value": 111.56538486443273
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Oakland, California", 
+        "source_id": "44", 
+        "target": "Toledo, Ohio", 
+        "target_id": "66", 
+        "value": 2061.8794254498407
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Oakland, California", 
+        "source_id": "44", 
+        "target": "Lincoln, Nebraska", 
+        "target_id": "71", 
+        "value": 1381.794042229683
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Oakland, California", 
+        "source_id": "44", 
+        "target": "Reno, Nevada", 
+        "target_id": "89", 
+        "value": 178.3718068961297
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Toledo, Ohio", 
+        "source_id": "66", 
+        "target": "Lincoln, Nebraska", 
+        "target_id": "71", 
+        "value": 685.6501336650986
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Toledo, Ohio", 
+        "source_id": "66", 
+        "target": "Reno, Nevada", 
+        "target_id": "89", 
+        "value": 1898.6747965310685
+    }, 
+    {
+        "group": 39, 
+        "group_name": "I-80", 
+        "source": "Lincoln, Nebraska", 
+        "source_id": "71", 
+        "target": "Reno, Nevada", 
+        "target_id": "89", 
+        "value": 1223.7464807075626
+    }, 
+    {
+        "group": 41, 
+        "group_name": "I-84", 
+        "source": "Portland, Oregon", 
+        "source_id": "28", 
+        "target": "Boise City, Idaho", 
+        "target_id": "97", 
+        "value": 344.85436538900507
+    }, 
+    {
+        "group": 42, 
+        "group_name": "I-85", 
+        "source": "Charlotte, North Carolina", 
+        "source_id": "15", 
+        "target": "Atlanta, Georgia", 
+        "target_id": "39", 
+        "value": 226.50595901609498
+    }, 
+    {
+        "group": 42, 
+        "group_name": "I-85", 
+        "source": "Charlotte, North Carolina", 
+        "source_id": "15", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 121.57120240626617
+    }, 
+    {
+        "group": 42, 
+        "group_name": "I-85", 
+        "source": "Atlanta, Georgia", 
+        "source_id": "39", 
+        "target": "Durham, North Carolina", 
+        "target_id": "81", 
+        "value": 348.0724189158716
+    }
+]
