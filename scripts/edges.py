@@ -71,13 +71,15 @@ def get_distance(pair, cities):
     return distance 
 
 
+routes = ['I-10','I-12','I-15','I-17','I-19','I-20','I-24','I-25','I-27','I-29','I-30','I-35','I-35E','I-35W','I-37','I-4','I-40','I-41','I-43','I-44','I-45','I-49','I-5','I-55','I-57','I-64','I-65','I-66','I-69','I-69 West','I-70','I-71','I-73*','I-74','I-75','I-76','I-77','I-78','I-8','I-80','I-83','I-84','I-85','I-87','I-90','I-93','I-94','I-95','I-96']
+
 def get_edges(cities):
     edges = []
     route_pairs = get_route_pairs(cities)
     for route in route_pairs:
         for pair in route['pairs']:        
             edges.append({
-                "route": route['route'],
+                "group": routes.index(route['route']), # routes.. called group to color in D3
                 "source": "%s, %s" % (pair[0][0], pair[0][1]),
                 "target": "%s, %s" % (pair[1][0], pair[1][1]),
                 "value": get_distance(pair, cities),

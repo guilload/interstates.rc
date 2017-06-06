@@ -1,7 +1,7 @@
 <!-- 
 
-need to view this using a webserver e.g.
-
+need to view this using a webserver.
+run a webserver with...
 `npm install -g http-server`
 `http-server &`
 
@@ -12,14 +12,16 @@ need to view this using a webserver e.g.
 <style>
 
 .links line {
-  stroke: #999;
-  stroke-opacity: 0.2;
+  stroke-opacity: .8;
 }
 
 .nodes circle {
   pointer-events: all;
   stroke: none;
   stroke-width: 40px;
+  fill: #E5E5E5;
+  stroke: #B0AFAF;
+  stroke-width: 2;
 }
 
 </style>
@@ -45,7 +47,8 @@ d3.json("data/vis.json", function(error, graph) {
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
-    .enter().append("line");
+    .enter().append("line")
+      .attr("stroke", function(d) { return color(d.route); });
 
   var node = svg.append("g")
       .attr("class", "nodes")
@@ -53,7 +56,6 @@ d3.json("data/vis.json", function(error, graph) {
     .data(graph.nodes)
     .enter().append("circle")
       .attr("r", 4)
-      .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -67,7 +69,8 @@ d3.json("data/vis.json", function(error, graph) {
       .nodes(graph.nodes)
       .on("tick", ticked);
 
-  simulation.force("link")
+  simulation
+      .force("link")
       .links(graph.links);
 
   function ticked() {
